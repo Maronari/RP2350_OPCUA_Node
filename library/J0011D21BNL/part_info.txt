@@ -1,0 +1,9 @@
+Manufacturer=Yageo Group
+PartNumber=J0011D21BNL
+PartCategory=Connector
+PackageCategory=Other
+PinCount=14
+Version=1.2
+Released=2020-09-14 15:35:12
+Downloaded=2026-08-25 10:53:52
+3D=Y

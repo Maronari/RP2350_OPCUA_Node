@@ -1,0 +1,10 @@
+Record=TopLevelDocument|FileName=01_POWER_INPUT.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=01_POWER_INPUT.SchDoc|FileName=02A_POWER_RAILS.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=01_POWER_INPUT.SchDoc|FileName=02B_AO_POWER.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=01_POWER_INPUT.SchDoc|FileName=03_MCU_RP2350.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=01_POWER_INPUT.SchDoc|FileName=04_MEMORY.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=01_POWER_INPUT.SchDoc|FileName=05_ETHERNET_USB.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=01_POWER_INPUT.SchDoc|FileName=06_RS485.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=01_POWER_INPUT.SchDoc|FileName=07_ANALOG_INPUTS.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=01_POWER_INPUT.SchDoc|FileName=08_ANALOG_OUTPUTS.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=01_POWER_INPUT.SchDoc|FileName=09_DIGITAL_IO.SchDoc|SheetNumber=10
