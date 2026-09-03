@@ -1,0 +1,9 @@
+Manufacturer=LITTELFUSE
+PartNumber=0885005.DR
+PartCategory=Fuse
+PackageCategory=Fuses Chip
+PinCount=2
+Version=2.1
+Released=2020-01-08 06:37:19
+Downloaded=2026-09-01 19:14:47
+3D=Y

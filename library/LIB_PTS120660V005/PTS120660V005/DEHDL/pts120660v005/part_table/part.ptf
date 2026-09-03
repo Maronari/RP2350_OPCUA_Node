@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PTS120660V005'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Eaton", "PTS120660V005" (!) = "", "FUSC3216X90N", "Fuses Chip", "504-PTS120660V005", "https://www.mouser.co.uk/ProductDetail/Eaton-Electronics/PTS120660V005?qs=QmibqUXyDhQPirhmCJ6OpQ%3D%3D", "PTS120660V005", "https://www.arrow.com/en/products/pts120660v005/eaton?utm_currency=USD&region=europe", "PPTC SMD 1206 60V 0.05A", "https://in.element14.com/eaton-bussmann-series/pts120660v005/pptc-resettable-fuse-0-05a-60vdc/dp/2929344?srsltid=AfmBOorX1B25_1GKuczfUlW7ilxwoZgl3KmxHJmMFzJpoWYAJ50DmC3S", "0.9 mm"
+END_PART
+
+END.

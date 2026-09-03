@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_10435777"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-12-03-10:59:36)
+    (utime 2024-12-03-10:59:36)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "PTS120660V005")
+)
+
+
+(pinAssign "ECS_10435777"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-12-03-10:59:36)
+    (utime 2024-12-03-10:59:36)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_10435777")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "PTS120660V005")
+)
+
+
+(part "PTS120660V005"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-12-03-10:59:36)
+    (utime 2024-12-03-10:59:36)
+    (packageRef "PTS120660V005")
+    (pinAssignRef "ECS_10435777")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "F")
+    (property "description" "PPTC SMD 1206 60V 0.05A")
+    (property "Manufacturer_Name" "Eaton")
+    (property "Manufacturer_Part_Number" "PTS120660V005")
+    (property "Mouser_Part_Number" "504-PTS120660V005")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Eaton-Electronics/PTS120660V005?qs=QmibqUXyDhQPirhmCJ6OpQ%3D%3D")
+    (property "Arrow_Part_Number" "PTS120660V005")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/pts120660v005/eaton?utm_currency=USD&region=europe")
+    (property "Datasheet_Link" "https://in.element14.com/eaton-bussmann-series/pts120660v005/pptc-resettable-fuse-0-05a-60vdc/dp/2929344?srsltid=AfmBOorX1B25_1GKuczfUlW7ilxwoZgl3KmxHJmMFzJpoWYAJ50DmC3S")
+    (property "compAreaTopHeight" 0.9)
+)
+
+

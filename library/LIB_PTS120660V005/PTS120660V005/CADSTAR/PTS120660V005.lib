@@ -1,0 +1,18 @@
+.PTS120660V005 :1 ;PPTC SMD 1206 60V 0.05A
+FUSC3216X90N
+*STM F
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN PTS120660V005
+~!Manufacturer_Name (Eaton)
+~!Manufacturer_Part_Number (PTS120660V005)
+~!Mouser Part Number (504-PTS120660V005)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Eaton-Electronics/PTS120660V005?qs=QmibqUXyDhQPirhmCJ6OpQ%3D%3D)
+~!Arrow Part Number (PTS120660V005)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/pts120660v005/eaton?utm_currency=USD&region=europe)
+~!Link Datasheet (https://in.element14.com/eaton-bussmann-series/pts120660v005/pptc-resettable-fuse-0-05a-60vdc/dp/2929344?srsltid=AfmBOorX1B25_1GKuczfUlW7ilxwoZgl3KmxHJmMFzJpoWYAJ50DmC3S)
+~!Height (0.9mm)
+~!3D_Model (PTS120660V005)
+PTS120660V005
+1.1!U 2.1!U 
