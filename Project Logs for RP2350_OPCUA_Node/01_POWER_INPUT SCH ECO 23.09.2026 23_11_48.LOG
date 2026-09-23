@@ -1,0 +1,15 @@
+Change Component Designator: Old Designator=C_DVDT New Designator=C_DVDT1
+Change Component Designator: Old Designator=C_IN_BULK New Designator=C_IN_BULK1
+Change Component Designator: Old Designator=C_IN_HF New Designator=C_IN_HF1
+Change Component Designator: Old Designator=C_OUT1 New Designator=C_OUT2
+Change Component Designator: Old Designator=C_OUT2 New Designator=C_OUT1
+Change Component Designator: Old Designator=CR? New Designator=CR1
+Change Component Designator: Old Designator=CR? New Designator=CR2
+Change Component Designator: Old Designator=F? New Designator=F2
+Change Component Designator: Old Designator=R_ILIM New Designator=R_ILIM1
+Change Component Designator: Old Designator=R_IMON New Designator=R_IMON1
+Change Component Designator: Old Designator=R_MODE New Designator=R_MODE1
+Change Component Designator: Old Designator=R_UVOV_1 New Designator=R_UVOV_3
+Change Component Designator: Old Designator=R_UVOV_3 New Designator=R_UVOV_1
+Change Component Designator: Old Designator=SCHOTTKY_60V_TBD New Designator=SCHOTTKY_1
+Change Component Designator: Old Designator=TP_SHDN New Designator=TP_SHDN1

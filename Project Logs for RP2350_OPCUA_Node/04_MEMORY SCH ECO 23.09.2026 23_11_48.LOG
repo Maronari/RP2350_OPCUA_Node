@@ -1,0 +1,7 @@
+Change Component Designator: Old Designator=C_FLASH_VCC New Designator=C_FLASH_VCC1
+Change Component Designator: Old Designator=R_BOOT New Designator=R_BOOT1
+Change Component Designator: Old Designator=R_FLASH_CS_PU New Designator=R_FLASH_CS_PU1
+Change Component Designator: Old Designator=R_FLASH_RESET New Designator=R_FLASH_RESET1
+Change Component Designator: Old Designator=R_PSRAM_CS_PU New Designator=R_PSRAM_CS_PU1
+Change Component Designator: Old Designator=R_PSRAM_SER New Designator=R_PSRAM_SER1
+Change Component Designator: Old Designator=SW_BOOTSEL New Designator=SW_BOOTSEL1

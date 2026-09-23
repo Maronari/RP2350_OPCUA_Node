@@ -1,0 +1,13 @@
+Change Component Designator: Old Designator=C_AO_OUT New Designator=C_AO_OUT1
+Change Component Designator: Old Designator=C_FF_AO New Designator=C_FF_AO1
+Change Component Designator: Old Designator=C_INTVCC New Designator=C_INTVCC1
+Change Component Designator: Old Designator=C_SEPIC New Designator=C_SEPIC1
+Change Component Designator: Old Designator=C_SS New Designator=C_SS2
+Change Component Designator: Old Designator=C_VC New Designator=C_VC1
+Change Component Designator: Old Designator=D_SEPIC New Designator=D_SEPIC1
+Change Component Designator: Old Designator=R_FB_AO_BOT New Designator=R_FB_AO_BOT1
+Change Component Designator: Old Designator=R_FB_AO_TOP New Designator=R_FB_AO_TOP1
+Change Component Designator: Old Designator=R_LT_EN New Designator=R_LT_EN1
+Change Component Designator: Old Designator=R_MODE New Designator=R_MODE2
+Change Component Designator: Old Designator=R_RT New Designator=R_RT1
+Change Component Designator: Old Designator=R_VC New Designator=R_VC1
