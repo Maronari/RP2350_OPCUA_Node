@@ -166,7 +166,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DBTPPWCP
 
 [Document8]
 DocumentPath=RP2350_OPCUA_Node.Annotation
@@ -234,7 +234,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AXKINGHC
 
 [Document12]
 DocumentPath=..\..\Downloads\Дисер-20260823T205534Z-1-001\Дисер\ul_AD5422BREZ\Altium\AD5422BREZ.PcbLib
@@ -302,7 +302,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TGURAPDC
 
 [Document16]
 DocumentPath=..\..\Downloads\Дисер-20260823T205534Z-1-001\Дисер\ul_APS6404L-3SQR-SN\Altium\APS6404L-3SQR-SN\APS6404L-3SQR-SN.PcbLib
@@ -336,7 +336,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RCQYRMIM
 
 [Document18]
 DocumentPath=..\..\Downloads\Дисер-20260823T205534Z-1-001\Дисер\ul_IPS2050HTR\Altium\IPS2050HTR.PcbLib
@@ -370,7 +370,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OHKURLSV
 
 [Document20]
 DocumentPath=..\..\Downloads\Дисер-20260823T205534Z-1-001\Дисер\ul_ISOW1432DFMR\Altium\ISOW1432DFMR\ISOW1432DFMR.PcbLib
@@ -404,7 +404,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VMZVGLNU
 
 [Document22]
 DocumentPath=library\ul_J0011D21BNL\Altium\J0011D21BNL.PcbLib
@@ -438,7 +438,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TWGHBGGT
 
 [Document24]
 DocumentPath=library\ul_LM76003RNPR\Altium\LM76003RNPR\LM76003RNPR.PcbLib
@@ -472,7 +472,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FYVVBEWK
 
 [Document26]
 DocumentPath=library\ul_W25Q128JVBIQ\Altium\W25Q128JVBIQ.PcbLib
@@ -506,7 +506,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TVGUKLNQ
 
 [Document28]
 DocumentPath=library\ul_UJ20-C-V-SMT-TR-68\Altium\UJ20-C-V-SMT-TR-68.PcbLib
@@ -540,7 +540,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DQXXVLRE
 
 [Document30]
 DocumentPath=library\ul_ABM8-272-T3\Altium\ABM8-272-T3\ABM8-272-T3.PcbLib
@@ -574,7 +574,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IZKLNGVQ
 
 [Document32]
 DocumentPath=library\ul_APS6404L-3SQR-SN\Altium\APS6404L-3SQR-SN\APS6404L-3SQR-SN.PcbLib
@@ -608,7 +608,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BPYXFWCP
 
 [Document34]
 DocumentPath=library\ul_W5500\Altium\W5500\W5500.PcbLib
@@ -642,7 +642,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WAAUBRON
 
 [Document36]
 DocumentPath=06_RS485.SchDoc
@@ -693,7 +693,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ABIFPHMT
 
 [Document39]
 DocumentPath=library\445I23D25M00000\445I23D25M00000.PcbLib
@@ -727,7 +727,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QHDKZZFZ
 
 [Document41]
 DocumentPath=library\USB4145-03-0230-C\USB4145-03-0230-C.PcbLib
@@ -761,7 +761,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YMRNZROT
 
 [Document43]
 DocumentPath=library\ul_TMJD4012BENL\Altium\TMJD4012BENL.PcbLib
@@ -829,7 +829,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PAJDNMGW
 
 [Document47]
 DocumentPath=library\ul_SM712-TCT\Altium\SM712-TCT\07_ANALOG_INPUTS.SchDoc
@@ -880,7 +880,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SXIPIVRZ
 
 [Document50]
 DocumentPath=library\RP2350B-Footprint-main\RP2350B.PcbLib
@@ -914,7 +914,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ETBSYIPE
 
 [Document52]
 DocumentPath=library\ul_TCAL9539RTWR\Altium\TCAL9539RTWR.PcbLib
@@ -948,7 +948,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BVICNXDD
 
 [Document54]
 DocumentPath=library\ul_TCA4307DGKR\Altium\TCA4307DGKR\TCA4307DGKR.PcbLib
@@ -982,7 +982,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JJYQHAPF
 
 [Document56]
 DocumentPath=library\ul_CDSOD323-T12C\Altium\CDSOD323-T12C.PcbLib
@@ -1016,7 +1016,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HFJZDHPI
 
 [Document58]
 DocumentPath=08_ANALOG_OUTPUTS.SchDoc
@@ -1067,7 +1067,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MQMKJUME
 
 [Document61]
 DocumentPath=library\ul_SMBJ12CA\Altium\SMBJ12CA.PcbLib
@@ -1101,7 +1101,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FPQENAHQ
 
 [Document63]
 DocumentPath=library\ul_SN74LVC2G04DBVR\Altium\SN74LVC2G04DBVR\SN74LVC2G04DBVR.PcbLib
@@ -1135,7 +1135,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CYFJJMAJ
 
 [Document65]
 DocumentPath=library\ul_OP284ESZ\Altium\OP284ESZ\OP284ESZ.PcbLib
@@ -1169,7 +1169,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SICFNWYS
 
 [Document67]
 DocumentPath=library\ul_SMBJ15A\Altium\SMBJ15A\SMBJ15A.PcbLib
@@ -1203,7 +1203,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OCINQZMO
 
 [Document69]
 DocumentPath=library\ul_SS16\Altium\SS16\SS16.PcbLib
@@ -1237,7 +1237,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FUAFNKQR
 
 [Document71]
 DocumentPath=library\ul_OPA2991IDR\Altium\OPA2991IDR\OPA2991IDR.PcbLib
@@ -1271,7 +1271,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XLROUXUZ
 
 [Document73]
 DocumentPath=09_DIGITAL_IO.SchDoc
@@ -1322,7 +1322,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RLUOERUJ
 
 [Document76]
 DocumentPath=library\ul_MAX22190ATJ-\Altium\MAX22190ATJ&plus_.PcbLib
@@ -1356,7 +1356,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=STUSNQPK
 
 [Document78]
 DocumentPath=library\ul_SMCJ36A\Altium\SMCJ36A\SMCJ36A.PcbLib
@@ -1390,7 +1390,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XFSJGMCH
 
 [Document80]
 DocumentPath=library\ul_STPST10H100SBYTR\Altium\STPST10H100SBYTR.PcbLib
@@ -1424,7 +1424,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OTMKTLEE
 
 [Document82]
 DocumentPath=library\ul_TLP383-GR-TPL-E\Altium\TLP383GR-TPL,E.PcbLib
@@ -1492,7 +1492,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PQUMKPTL
 
 [Document86]
 DocumentPath=library\ul_CRCW25121K50FKEGHP\Altium\CRCW25121K50FKEGHP.PcbLib
@@ -1526,7 +1526,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PPOQRTNO
 
 [Document88]
 DocumentPath=10_UNIVERSAL_INPUTS.SchDoc
@@ -1577,7 +1577,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ZMGHSMNA
 
 [Document91]
 DocumentPath=library\ul_BAS70LT1G\Altium\BAS70LT1G.PcbLib
@@ -1611,7 +1611,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SEMQGWSR
 
 [Document93]
 DocumentPath=library\ul_TLV9034PWR\Altium\TLV9034PWR.PcbLib
@@ -1645,7 +1645,109 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+DocumentUniqueId=KSRQMKYF
+
+[Document95]
+DocumentPath=RP2350_OPCUA_Node.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document96]
+DocumentPath=11_LEDS.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BHABDZRR
+
+[Document97]
+DocumentPath=library\ul_2N7002LT1G\Altium\2N7002LT1G\2N7002LT1G.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document98]
+DocumentPath=library\ul_2N7002LT1G\Altium\2N7002LT1G\2N7002LT1G.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TTTVBWZV
+
+[Document99]
+DocumentPath=library\ul_ABM8-12-000MHZ-B2-T\Altium\ABM8-12P000MHZ-B2-T.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document100]
+DocumentPath=library\ul_ABM8-12-000MHZ-B2-T\Altium\ABM8-12P000MHZ-B2-T.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TNYUQITN
 
 [Configuration1]
 Name=Sources
@@ -1656,6 +1758,45 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_SmartPDF]
+AutoOpenFile=-1
+AutoOpenOutJob=-1
+
+[Generic_SmartPDFSettings]
+ProjectMode=-1
+ZoomPrecision=50
+AddNetsInformation=-1
+AddNetPins=-1
+AddNetNetLabels=-1
+AddNetPorts=-1
+ShowComponentParameters=-1
+GlobalBookmarks=0
+ExportBOM=-1
+TemplateFilename=Board Stack Report.XLT
+TemplateStoreRelative=-1
+PCB_PrintColor=1
+SCH_PrintColor=0
+PrintQuality=-3
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
+SCH_NoERCSymbolsToShow="Thin Cross",Triangle
+SCH_ShowNote=-1
+SCH_ShowNoteCollapsed=-1
+Wir_PrintColor=0
+Ldr_PrintColor=0
+Esd_PrintColor=0
+SCH_ExpandLogicalToPhysical=0
+SCH_VariantName=[No Variations]
+SCH_ExpandComponentDesignators=-1
+SCH_ExpandNetlabels=0
+SCH_ExpandPorts=0
+SCH_ExpandSheetNumber=0
+SCH_ExpandDocumentNumber=0
+SCH_HasExpandLogicalToPhysicalSheets=-1
+SaveSettingsToOutJob=-1
 
 [OutputGroup1]
 Name=Netlist Outputs
