@@ -1,0 +1,1041 @@
+Removed Pin From Net: NetName=RS485_A_ISO Pin=U8-19
+Removed Member From Class: ClassName=02A_POWER_RAILS Member=C6
+Removed Member From Class: ClassName=02A_POWER_RAILS Member=C7
+Removed Member From Class: ClassName=02A_POWER_RAILS Member=C8
+Removed Member From Class: ClassName=02A_POWER_RAILS Member=C9
+Removed Member From Class: ClassName=02A_POWER_RAILS Member=C10
+Removed Member From Class: ClassName=02A_POWER_RAILS Member=C11
+Removed Member From Class: ClassName=02A_POWER_RAILS Member=C12
+Removed Member From Class: ClassName=02A_POWER_RAILS Member=C13
+Removed Member From Class: ClassName=02B_AO_POWER Member=C29
+Removed Member From Class: ClassName=02B_AO_POWER Member=C30
+Removed Member From Class: ClassName=02B_AO_POWER Member=C31
+Removed Member From Class: ClassName=02B_AO_POWER Member=C32
+Removed Member From Class: ClassName=02B_AO_POWER Member=C33
+Removed Member From Class: ClassName=02B_AO_POWER Member=C34
+Removed Member From Class: ClassName=02B_AO_POWER Member=C35
+Removed Member From Class: ClassName=02B_AO_POWER Member=C36
+Removed Member From Class: ClassName=03_MCU_RP2350 Member=C54
+Removed Member From Class: ClassName=03_MCU_RP2350 Member=C55
+Removed Member From Class: ClassName=05_ETHERNET_USB Member=C59
+Removed Member From Class: ClassName=07_ANALOG_INPUTS Member=C81
+Removed Member From Class: ClassName=07_ANALOG_INPUTS Member=C82
+Removed Member From Class: ClassName=07_ANALOG_INPUTS Member=C83
+Removed Member From Class: ClassName=07_ANALOG_INPUTS Member=C84
+Removed Member From Class: ClassName=07_ANALOG_INPUTS Member=C85
+Removed Member From Class: ClassName=07_ANALOG_INPUTS Member=C86
+Removed Member From Class: ClassName=07_ANALOG_INPUTS Member=C87
+Removed Member From Class: ClassName=07_ANALOG_INPUTS Member=C88
+Removed Member From Class: ClassName=07_ANALOG_INPUTS Member=C89
+Removed Member From Class: ClassName=08_ANALOG_OUTPUTS Member=C97
+Removed Member From Class: ClassName=08_ANALOG_OUTPUTS Member=C98
+Removed Member From Class: ClassName=08_ANALOG_OUTPUTS Member=C99
+Removed Member From Class: ClassName=08_ANALOG_OUTPUTS Member=C100
+Removed Member From Class: ClassName=08_ANALOG_OUTPUTS Member=C101
+Removed Member From Class: ClassName=08_ANALOG_OUTPUTS Member=C102
+Removed Member From Class: ClassName=08_ANALOG_OUTPUTS Member=C103
+Removed Member From Class: ClassName=08_ANALOG_OUTPUTS Member=C104
+Removed Member From Class: ClassName=08_ANALOG_OUTPUTS Member=C105
+Removed Member From Class: ClassName=08_ANALOG_OUTPUTS Member=C106
+Removed Member From Class: ClassName=08_ANALOG_OUTPUTS Member=C107
+Removed Member From Class: ClassName=08_ANALOG_OUTPUTS Member=C108
+Removed Member From Class: ClassName=08_ANALOG_OUTPUTS Member=C109
+Removed Member From Class: ClassName=08_ANALOG_OUTPUTS Member=C110
+Removed Member From Class: ClassName=09_DIGITAL_IO Member=C111
+Removed Member From Class: ClassName=09_DIGITAL_IO Member=C112
+Removed Member From Class: ClassName=09_DIGITAL_IO Member=C113
+Removed Member From Class: ClassName=09_DIGITAL_IO Member=C114
+Removed Member From Class: ClassName=09_DIGITAL_IO Member=C115
+Removed Member From Class: ClassName=09_DIGITAL_IO Member=C116
+Removed Member From Class: ClassName=09_DIGITAL_IO Member=C117
+Removed Member From Class: ClassName=09_DIGITAL_IO Member=C118
+Removed Member From Class: ClassName=09_DIGITAL_IO Member=C119
+Removed Member From Class: ClassName=10_UNIVERSAL_INPUTS Member=C120
+Removed Member From Class: ClassName=10_UNIVERSAL_INPUTS Member=C121
+Removed Member From Class: ClassName=10_UNIVERSAL_INPUTS Member=C122
+Removed Member From Class: ClassName=10_UNIVERSAL_INPUTS Member=C123
+Removed Member From Class: ClassName=10_UNIVERSAL_INPUTS Member=C124
+Removed Member From Class: ClassName=01_POWER_INPUT Member=CR5
+Removed Member From Class: ClassName=07_ANALOG_INPUTS Member=CR5
+Removed Member From Class: ClassName=07_ANALOG_INPUTS Member=CR8
+Removed Member From Class: ClassName=07_ANALOG_INPUTS Member=CR9
+Removed Member From Class: ClassName=07_ANALOG_INPUTS Member=CR13
+Removed Member From Class: ClassName=08_ANALOG_OUTPUTS Member=CR16
+Removed Member From Class: ClassName=10_UNIVERSAL_INPUTS Member=CR16
+Removed Member From Class: ClassName=10_UNIVERSAL_INPUTS Member=CR19
+Removed Member From Class: ClassName=01_POWER_INPUT Member=D2
+Removed Member From Class: ClassName=02B_AO_POWER Member=D3
+Removed Member From Class: ClassName=09_DIGITAL_IO Member=D4
+Removed Member From Class: ClassName=09_DIGITAL_IO Member=D5
+Removed Member From Class: ClassName=09_DIGITAL_IO Member=D6
+Removed Member From Class: ClassName=09_DIGITAL_IO Member=D7
+Removed Member From Class: ClassName=07_ANALOG_INPUTS Member=F3
+Removed Member From Class: ClassName=07_ANALOG_INPUTS Member=F4
+Removed Member From Class: ClassName=07_ANALOG_INPUTS Member=F5
+Removed Member From Class: ClassName=07_ANALOG_INPUTS Member=F6
+Removed Member From Class: ClassName=05_ETHERNET_USB Member=FB2
+Removed Member From Class: ClassName=05_ETHERNET_USB Member=J1
+Removed Member From Class: ClassName=07_ANALOG_INPUTS Member=J4
+Removed Member From Class: ClassName=07_ANALOG_INPUTS Member=J6
+Removed Member From Class: ClassName=07_ANALOG_INPUTS Member=J7
+Removed Member From Class: ClassName=07_ANALOG_INPUTS Member=J9
+Removed Member From Class: ClassName=02A_POWER_RAILS Member=L1
+Removed Member From Class: ClassName=02A_POWER_RAILS Member=L2
+Removed Member From Class: ClassName=02B_AO_POWER Member=L3
+Removed Member From Class: ClassName=02B_AO_POWER Member=L4
+Removed Member From Class: ClassName=03_MCU_RP2350 Member=L5
+Removed Member From Class: ClassName=09_DIGITAL_IO Member=MOSFET1
+Removed Member From Class: ClassName=09_DIGITAL_IO Member=MOSFET2
+Removed Member From Class: ClassName=09_DIGITAL_IO Member=MOSFET3
+Removed Member From Class: ClassName=09_DIGITAL_IO Member=MOSFET4
+Removed Member From Class: ClassName=02A_POWER_RAILS Member=R7
+Removed Member From Class: ClassName=02A_POWER_RAILS Member=R8
+Removed Member From Class: ClassName=02A_POWER_RAILS Member=R9
+Removed Member From Class: ClassName=02A_POWER_RAILS Member=R10
+Removed Member From Class: ClassName=02A_POWER_RAILS Member=R11
+Removed Member From Class: ClassName=02A_POWER_RAILS Member=R12
+Removed Member From Class: ClassName=02A_POWER_RAILS Member=R13
+Removed Member From Class: ClassName=02A_POWER_RAILS Member=R14
+Removed Member From Class: ClassName=02A_POWER_RAILS Member=R27
+Removed Member From Class: ClassName=02A_POWER_RAILS Member=R28
+Removed Member From Class: ClassName=02A_POWER_RAILS Member=R29
+Removed Member From Class: ClassName=02A_POWER_RAILS Member=R30
+Removed Member From Class: ClassName=02A_POWER_RAILS Member=R31
+Removed Member From Class: ClassName=02A_POWER_RAILS Member=R32
+Removed Member From Class: ClassName=02A_POWER_RAILS Member=R33
+Removed Member From Class: ClassName=02A_POWER_RAILS Member=R34
+Removed Member From Class: ClassName=02B_AO_POWER Member=R35
+Removed Member From Class: ClassName=02B_AO_POWER Member=R36
+Removed Member From Class: ClassName=02B_AO_POWER Member=R37
+Removed Member From Class: ClassName=02B_AO_POWER Member=R38
+Removed Member From Class: ClassName=02B_AO_POWER Member=R39
+Removed Member From Class: ClassName=02B_AO_POWER Member=R40
+Removed Member From Class: ClassName=04_MEMORY Member=R53
+Removed Member From Class: ClassName=05_ETHERNET_USB Member=R58
+Removed Member From Class: ClassName=05_ETHERNET_USB Member=R59
+Removed Member From Class: ClassName=05_ETHERNET_USB Member=R60
+Removed Member From Class: ClassName=07_ANALOG_INPUTS Member=R87
+Removed Member From Class: ClassName=07_ANALOG_INPUTS Member=R88
+Removed Member From Class: ClassName=07_ANALOG_INPUTS Member=R89
+Removed Member From Class: ClassName=07_ANALOG_INPUTS Member=R90
+Removed Member From Class: ClassName=07_ANALOG_INPUTS Member=R91
+Removed Member From Class: ClassName=07_ANALOG_INPUTS Member=R108
+Removed Member From Class: ClassName=07_ANALOG_INPUTS Member=R109
+Removed Member From Class: ClassName=08_ANALOG_OUTPUTS Member=R110
+Removed Member From Class: ClassName=08_ANALOG_OUTPUTS Member=R111
+Removed Member From Class: ClassName=08_ANALOG_OUTPUTS Member=R112
+Removed Member From Class: ClassName=08_ANALOG_OUTPUTS Member=R113
+Removed Member From Class: ClassName=08_ANALOG_OUTPUTS Member=R114
+Removed Member From Class: ClassName=08_ANALOG_OUTPUTS Member=R115
+Removed Member From Class: ClassName=08_ANALOG_OUTPUTS Member=R116
+Removed Member From Class: ClassName=08_ANALOG_OUTPUTS Member=R117
+Removed Member From Class: ClassName=10_UNIVERSAL_INPUTS Member=R134
+Removed Member From Class: ClassName=10_UNIVERSAL_INPUTS Member=R135
+Removed Member From Class: ClassName=10_UNIVERSAL_INPUTS Member=R152
+Removed Member From Class: ClassName=10_UNIVERSAL_INPUTS Member=R153
+Removed Member From Class: ClassName=10_UNIVERSAL_INPUTS Member=R154
+Removed Member From Class: ClassName=10_UNIVERSAL_INPUTS Member=R155
+Removed Member From Class: ClassName=10_UNIVERSAL_INPUTS Member=R156
+Removed Member From Class: ClassName=10_UNIVERSAL_INPUTS Member=R157
+Removed Member From Class: ClassName=10_UNIVERSAL_INPUTS Member=R158
+Removed Member From Class: ClassName=10_UNIVERSAL_INPUTS Member=R159
+Removed Member From Class: ClassName=10_UNIVERSAL_INPUTS Member=R160
+Removed Member From Class: ClassName=10_UNIVERSAL_INPUTS Member=R161
+Removed Member From Class: ClassName=09_DIGITAL_IO Member=R_DI1
+Removed Member From Class: ClassName=09_DIGITAL_IO Member=R_DI2
+Removed Member From Class: ClassName=09_DIGITAL_IO Member=R_DI3
+Removed Member From Class: ClassName=09_DIGITAL_IO Member=R_DI4
+Removed Member From Class: ClassName=03_MCU_RP2350 Member=R_RP1
+Removed Member From Class: ClassName=03_MCU_RP2350 Member=R_RP2
+Removed Member From Class: ClassName=03_MCU_RP2350 Member=R_RP3
+Removed Member From Class: ClassName=04_MEMORY Member=SW1
+Removed Member From Class: ClassName=10_UNIVERSAL_INPUTS Member=TP3
+Removed Member From Class: ClassName=10_UNIVERSAL_INPUTS Member=TP4
+Removed Member From Class: ClassName=10_UNIVERSAL_INPUTS Member=TP5
+Removed Member From Class: ClassName=10_UNIVERSAL_INPUTS Member=TP6
+Removed Member From Class: ClassName=05_ETHERNET_USB Member=U6
+Removed Member From Class: ClassName=08_ANALOG_OUTPUTS Member=U6
+Removed Member From Class: ClassName=09_DIGITAL_IO Member=U15
+Removed Member From Class: ClassName=10_UNIVERSAL_INPUTS Member=U15
+Removed Member From Class: ClassName=09_DIGITAL_IO Member=U16
+Removed Member From Class: ClassName=10_UNIVERSAL_INPUTS Member=U16
+Removed Member From Class: ClassName=09_DIGITAL_IO Member=U17
+Removed Member From Class: ClassName=10_UNIVERSAL_INPUTS Member=U18
+Removed Member From Class: ClassName=02A_POWER_RAILS Member=U20
+Removed Member From Class: ClassName=10_UNIVERSAL_INPUTS Member=U20
+Removed Member From Class: ClassName=02A_POWER_RAILS Member=U24
+Removed Member From Class: ClassName=04_MEMORY Member=U24
+Removed Member From Class: ClassName=07_ANALOG_INPUTS Member=U24
+Removed Member From Class: ClassName=02A_POWER_RAILS Member=U27
+Removed Member From Class: ClassName=05_ETHERNET_USB Member=U27
+Removed Member From Class: ClassName=08_ANALOG_OUTPUTS Member=U27
+Removed Member From Class: ClassName=02A_POWER_RAILS Member=U28
+Removed Member From Class: ClassName=02A_POWER_RAILS Member=U29
+Removed Member From Class: ClassName=03_MCU_RP2350 Member=U29
+Removed Member From Class: ClassName=02A_POWER_RAILS Member=U31
+Removed Member From Class: ClassName=04_MEMORY Member=U31
+Removed Member From Class: ClassName=08_ANALOG_OUTPUTS Member=U31
+Removed Member From Class: ClassName=03_MCU_RP2350 Member=X3
+Removed Member From Class: ClassName=03_MCU_RP2350 Member=X7
+Removed Member From Class: ClassName=10_UNIVERSAL_INPUTS Member=X7
+Removed Member From Class: ClassName=05_ETHERNET_USB Member=XTAL1
+Added Pin To Net: NetName=VIN_PROTECTED Pin=C1-1
+Added Pin To Net: NetName=GND_SYS Pin=C1-2
+Added Pin To Net: NetName=VIN_PROTECTED Pin=C2-1
+Added Pin To Net: NetName=GND_SYS Pin=C2-2
+Added Pin To Net: NetName=EFUSE_RTN Pin=C3-1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=VIN_FILTERED Pin=C4-1
+Added Pin To Net: NetName=GND_SYS Pin=C4-2
+Added Pin To Net: NetName=VIN_FILTERED Pin=C5-1
+Added Pin To Net: NetName=GND_SYS Pin=C5-2
+Added Pin To Net: NetName=GND_SYS Pin=C6-1
+Added Pin To Net: NetName=VIN_PROTECTED Pin=C6-2
+Added Pin To Net: NetName=GND_SYS Pin=C7-1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=GND_SYS Pin=C8-1
+Added Pin To Net: NetName=VIN_PROTECTED Pin=C8-2
+Added Pin To Net: NetName=GND_SYS Pin=C9-1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=GND_SYS Pin=C10-2
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=+15V_AO Pin=C11-2
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=GND_SYS Pin=C13-1
+Added Pin To Net: NetName=+15V_AO Pin=C13-2
+Added Pin To Net: NetName=GND_SYS Pin=C14-1
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC15_1 Pin=C15-1
+Added Pin To Net: NetName=GND_SYS Pin=C15-2
+Added Pin To Net: NetName=GND_SYS Pin=C16-1
+Added Pin To Net: NetName=+3V3_DIG Pin=C16-2
+Added Pin To Net: NetName=GND_SYS Pin=C17-1
+Added Pin To Net: NetName=+3V3_DIG Pin=C17-2
+Added Pin To Net: NetName=GND_SYS Pin=C18-1
+Added Pin To Net: NetName=+3V3_DIG Pin=C18-2
+Added Pin To Net: NetName=GND_SYS Pin=C19-1
+Added Pin To Net: NetName=+3V3_DIG Pin=C19-2
+Added Pin To Net: NetName=GND_SYS Pin=C20-1
+Added Pin To Net: NetName=+3V3_DIG Pin=C20-2
+Added Pin To Net: NetName=GND_SYS Pin=C21-1
+Added Pin To Net: NetName=+3V3_DIG Pin=C21-2
+Added Pin To Net: NetName=GND_SYS Pin=C22-1
+Added Pin To Net: NetName=+3V3_DIG Pin=C22-2
+Added Pin To Net: NetName=GND_SYS Pin=C23-1
+Added Pin To Net: NetName=+3V3_DIG Pin=C23-2
+Added Pin To Net: NetName=GND_SYS Pin=C24-1
+Added Pin To Net: NetName=+3V3_DIG Pin=C24-2
+Added Pin To Net: NetName=GND_SYS Pin=C25-1
+Added Pin To Net: NetName=+3V3_DIG Pin=C25-2
+Added Pin To Net: NetName=GND_SYS Pin=C26-1
+Added Pin To Net: NetName=NetC26_2 Pin=C26-2
+Added Pin To Net: NetName=GND_SYS Pin=C27-1
+Added Pin To Net: NetName=+3V3_ANALOG Pin=C27-2
+Added Pin To Net: NetName=GND_SYS Pin=C28-1
+Added Pin To Net: NetName=+3V3_DIG Pin=C28-2
+Added Pin To Net: NetName=GND_SYS Pin=C29-1
+Added Pin To Net: NetName=+1V1_CORE Pin=C29-2
+Added Pin To Net: NetName=GND_SYS Pin=C30-1
+Added Pin To Net: NetName=VIN_PROTECTED_MON Pin=C30-2
+Added Pin To Net: NetName=GND_SYS Pin=C31-1
+Added Pin To Net: NetName=AO_15V_MON Pin=C31-2
+Added Pin To Net: NetName=GND_SYS Pin=C32-1
+Added Pin To Net: NetName=ANA_5V_MON Pin=C32-2
+Added Pin To Net: NetName=GND_SYS Pin=C33-1
+Added Pin To Net: NetName=+1V1_CORE Pin=C33-2
+Added Pin To Net: NetName=GND_SYS Pin=C34-1
+Added Pin To Net: NetName=+1V1_CORE Pin=C34-2
+Added Pin To Net: NetName=GND_SYS Pin=C35-1
+Added Pin To Net: NetName=+3V3_DIG Pin=C35-2
+Added Pin To Net: NetName=GND_SYS Pin=C36-1
+Added Pin To Net: NetName=+3V3_DIG Pin=C36-2
+Added Pin To Net: NetName=GND_SYS Pin=C37-1
+Added Pin To Net: NetName=+3V3_DIG Pin=C37-2
+Added Pin To Net: NetName=GND_SYS Pin=C38-1
+Added Pin To Net: NetName=NetC38_2 Pin=C38-2
+Added Pin To Net: NetName=+3V3_ETH_A Pin=C39-1
+Added Pin To Net: NetName=GND_SYS Pin=C39-2
+Added Pin To Net: NetName=+3V3_ETH_A Pin=C40-1
+Added Pin To Net: NetName=GND_SYS Pin=C40-2
+Added Pin To Net: NetName=+3V3_ETH_A Pin=C41-1
+Added Pin To Net: NetName=GND_SYS Pin=C41-2
+Added Pin To Net: NetName=GND_SYS Pin=C42-1
+Added Pin To Net: NetName=+3V3_DIG Pin=C42-2
+Added Pin To Net: NetName=GND_SYS Pin=C43-1
+Added Pin To Net: NetName=NetC43_2 Pin=C43-2
+Added Pin To Net: NetName=GND_SYS Pin=C44-1
+Added Pin To Net: NetName=NetC44_2 Pin=C44-2
+Added Pin To Net: NetName=GND_SYS Pin=C45-1
+Added Pin To Net: NetName=NetC45_2 Pin=C45-2
+Added Pin To Net: NetName=+3V3_ETH_A Pin=C46-1
+Added Pin To Net: NetName=GND_SYS Pin=C46-2
+Added Pin To Net: NetName=GND_SYS Pin=C47-1
+Added Pin To Net: NetName=+3V3_DIG Pin=C47-2
+Added Pin To Net: NetName=+3V3_ETH_A Pin=C48-1
+Added Pin To Net: NetName=GND_SYS Pin=C48-2
+Added Pin To Net: NetName=+3V3_ETH_A Pin=C49-1
+Added Pin To Net: NetName=GND_SYS Pin=C49-2
+Added Pin To Net: NetName=GND_SYS Pin=C50-1
+Added Pin To Net: NetName=NetC51_1 Pin=C51-1
+Added Pin To Net: NetName=NetC51_2 Pin=C51-2
+Added Pin To Net: NetName=NetC52_1 Pin=C52-1
+Added Pin To Net: NetName=NetC52_2 Pin=C52-2
+Added Pin To Net: NetName=NetC53_1 Pin=C53-1
+Added Pin To Net: NetName=GND_SYS Pin=C53-2
+Added Pin To Net: NetName=GND_SYS Pin=C54-1
+Added Pin To Net: NetName=NetC54_2 Pin=C54-2
+Added Pin To Net: NetName=+3V3_DIG Pin=C55-1
+Added Pin To Net: NetName=NetC55_2 Pin=C55-2
+Added Pin To Net: NetName=GND_SYS Pin=C56-1
+Added Pin To Net: NetName=NetC54_2 Pin=C56-2
+Added Pin To Net: NetName=+3V3_RS485_ISO Pin=C57-1
+Added Pin To Net: NetName=GND_RS485_ISO Pin=C57-2
+Added Pin To Net: NetName=GND_RS485_ISO Pin=C58-1
+Added Pin To Net: NetName=+3V3_RS485_ISO Pin=C58-2
+Added Pin To Net: NetName=GND_RS485_ISO Pin=C59-1
+Added Pin To Net: NetName=+3V3_RS485_ISO Pin=C59-2
+Added Pin To Net: NetName=AGND Pin=C60-1
+Added Pin To Net: NetName=+5V_ANALOG Pin=C60-2
+Added Pin To Net: NetName=AGND Pin=C61-1
+Added Pin To Net: NetName=NetC61_2 Pin=C61-2
+Added Pin To Net: NetName=AGND Pin=C62-1
+Added Pin To Net: NetName=NetC62_2 Pin=C62-2
+Added Pin To Net: NetName=NetC62_2 Pin=C63-1
+Added Pin To Net: NetName=AGND Pin=C63-2
+Added Pin To Net: NetName=AGND Pin=C64-1
+Added Pin To Net: NetName=+5V_ANALOG Pin=C64-2
+Added Pin To Net: NetName=AGND Pin=C65-1
+Added Pin To Net: NetName=+3V3_DIG Pin=C65-2
+Added Pin To Net: NetName=AGND Pin=C66-1
+Added Pin To Net: NetName=+3V3_DIG Pin=C66-2
+Added Pin To Net: NetName=AGND Pin=C67-1
+Added Pin To Net: NetName=+5V_ANALOG Pin=C67-2
+Added Pin To Net: NetName=AIN_0GND Pin=C68-1
+Added Pin To Net: NetName=AIN_1GND Pin=C69-1
+Added Pin To Net: NetName=AIN_1P Pin=C69-2
+Added Pin To Net: NetName=AIN_2GND Pin=C70-1
+Added Pin To Net: NetName=AIN_2P Pin=C70-2
+Added Pin To Net: NetName=AIN_3GND Pin=C71-1
+Added Pin To Net: NetName=AIN_3P Pin=C71-2
+Added Pin To Net: NetName=AI0_RET Pin=C72-1
+Added Pin To Net: NetName=NODE_AI0_PROT Pin=C72-2
+Added Pin To Net: NetName=AI1_RET Pin=C73-1
+Added Pin To Net: NetName=NODE_AI1_PROT Pin=C73-2
+Added Pin To Net: NetName=AI2_RET Pin=C74-1
+Added Pin To Net: NetName=NODE_AI2_PROT Pin=C74-2
+Added Pin To Net: NetName=AI3_RET Pin=C75-1
+Added Pin To Net: NetName=NODE_AI3_PROT Pin=C75-2
+Added Pin To Net: NetName=AGND Pin=C76-1
+Added Pin To Net: NetName=+3V3_DIG Pin=C76-2
+Added Pin To Net: NetName=AGND Pin=C77-1
+Added Pin To Net: NetName=+3V3_DIG Pin=C77-2
+Added Pin To Net: NetName=AGND Pin=C78-1
+Added Pin To Net: NetName=+3V3_DIG Pin=C78-2
+Added Pin To Net: NetName=AGND Pin=C79-1
+Added Pin To Net: NetName=+3V3_DIG Pin=C79-2
+Added Pin To Net: NetName=+15V_AO Pin=C80-1
+Added Pin To Net: NetName=AGND Pin=C80-2
+Added Pin To Net: NetName=+15V_AO Pin=C81-1
+Added Pin To Net: NetName=AGND Pin=C81-2
+Added Pin To Net: NetName=AO1_RAW Pin=C82-1
+Added Pin To Net: NetName=NetC82_2 Pin=C82-2
+Added Pin To Net: NetName=+15V_AO Pin=C83-1
+Added Pin To Net: NetName=AGND Pin=C83-2
+Added Pin To Net: NetName=+15V_AO Pin=C84-1
+Added Pin To Net: NetName=AGND Pin=C84-2
+Added Pin To Net: NetName=AO0_RAW Pin=C85-1
+Added Pin To Net: NetName=NetC85_2 Pin=C85-2
+Added Pin To Net: NetName=AGND Pin=C86-1
+Added Pin To Net: NetName=AO1_REF_5V Pin=C86-2
+Added Pin To Net: NetName=AGND Pin=C87-1
+Added Pin To Net: NetName=AO0_REF_5V Pin=C87-2
+Added Pin To Net: NetName=AGND Pin=C88-1
+Added Pin To Net: NetName=+3V3_DIG Pin=C88-2
+Added Pin To Net: NetName=+15V_AO Pin=C89-1
+Added Pin To Net: NetName=AGND Pin=C89-2
+Added Pin To Net: NetName=+3V3_DIG Pin=C90-1
+Added Pin To Net: NetName=GND_SYS Pin=C90-2
+Added Pin To Net: NetName=+3V3_DIG Pin=C91-1
+Added Pin To Net: NetName=GND_SYS Pin=C91-2
+Added Pin To Net: NetName=+3V3_DIG Pin=C92-1
+Added Pin To Net: NetName=GND_SYS Pin=C92-2
+Added Pin To Net: NetName=GND_SYS Pin=C93-1
+Added Pin To Net: NetName=GND_SYS Pin=C94-1
+Added Pin To Net: NetName=VFIELD_OUT Pin=C94-2
+Added Pin To Net: NetName=+3V3_DIG Pin=C95-1
+Added Pin To Net: NetName=GND_SYS Pin=C95-2
+Added Pin To Net: NetName=+3V3_DIG Pin=C96-1
+Added Pin To Net: NetName=GND_SYS Pin=C96-2
+Added Pin To Net: NetName=GND_SYS Pin=C97-1
+Added Pin To Net: NetName=VFIELD_OUT Pin=C97-2
+Added Pin To Net: NetName=GND_SYS Pin=C98-1
+Added Pin To Net: NetName=UIC0_SENSE Pin=C99-1
+Added Pin To Net: NetName=GND_SYS Pin=C99-2
+Added Pin To Net: NetName=UIC1_SENSE Pin=C100-1
+Added Pin To Net: NetName=GND_SYS Pin=C100-2
+Added Pin To Net: NetName=UIC2_SENSE Pin=C101-1
+Added Pin To Net: NetName=GND_SYS Pin=C101-2
+Added Pin To Net: NetName=UIC3_SENSE Pin=C102-1
+Added Pin To Net: NetName=GND_SYS Pin=C102-2
+Added Pin To Net: NetName=GND_SYS Pin=C103-1
+Added Pin To Net: NetName=+3V3_DIG Pin=C103-2
+Added Pin To Net: NetName=+3V3_DIG Pin=C104-1
+Added Pin To Net: NetName=GND_SYS Pin=C104-2
+Added Pin To Net: NetName=NetC105_1 Pin=C105-1
+Added Pin To Net: NetName=GND_SYS Pin=C105-2
+Added Pin To Net: NetName=+3V3_DIG Pin=C106-1
+Added Pin To Net: NetName=GND_SYS Pin=C106-2
+Added Pin To Net: NetName=GND_SYS Pin=C107-1
+Added Pin To Net: NetName=VIN_PROTECTED Pin=C107-2
+Added Pin To Net: NetName=+3V3_DIG Pin=C108-1
+Added Pin To Net: NetName=GND_SYS Pin=C108-2
+Added Pin To Net: NetName=GND_SYS Pin=C109-1
+Added Pin To Net: NetName=VIN_PROTECTED Pin=C109-2
+Added Pin To Net: NetName=+3V3_DIG Pin=C110-1
+Added Pin To Net: NetName=GND_SYS Pin=C110-2
+Added Pin To Net: NetName=GND_SYS Pin=C111-1
+Added Pin To Net: NetName=VIN_PROTECTED Pin=C111-2
+Added Pin To Net: NetName=NetC112_1 Pin=C112-1
+Added Pin To Net: NetName=GND_SYS Pin=C112-2
+Added Pin To Net: NetName=NetC113_1 Pin=C113-1
+Added Pin To Net: NetName=SW_NODE Pin=C113-2
+Added Pin To Net: NetName=GND_SYS Pin=C114-1
+Added Pin To Net: NetName=NetC114_2 Pin=C114-2
+Added Pin To Net: NetName=NetC115_1 Pin=C115-1
+Added Pin To Net: NetName=GND_SYS Pin=C115-2
+Added Pin To Net: NetName=+5V_PRE Pin=C116-1
+Added Pin To Net: NetName=NetC116_2 Pin=C116-2
+Added Pin To Net: NetName=GND_SYS Pin=C117-1
+Added Pin To Net: NetName=+5V_PRE Pin=C117-2
+Added Pin To Net: NetName=+5V_PRE Pin=C118-1
+Added Pin To Net: NetName=GND_SYS Pin=C118-2
+Added Pin To Net: NetName=GND_SYS Pin=C119-1
+Added Pin To Net: NetName=+5V_PRE Pin=C119-2
+Added Pin To Net: NetName=+5V_PRE Pin=C120-1
+Added Pin To Net: NetName=GND_SYS Pin=C120-2
+Added Pin To Net: NetName=GND_SYS Pin=C121-1
+Added Pin To Net: NetName=+5V_PRE Pin=C121-2
+Added Pin To Net: NetName=GND_SYS Pin=C122-1
+Added Pin To Net: NetName=+3V3_DIG Pin=C122-2
+Added Pin To Net: NetName=AGND Pin=C123-1
+Added Pin To Net: NetName=+5V_PRE Pin=C123-2
+Added Pin To Net: NetName=AGND Pin=C124-1
+Added Pin To Net: NetName=+5V_PRE Pin=C124-2
+Added Pin To Net: NetName=+3V3_ANALOG Pin=C125-1
+Added Pin To Net: NetName=AGND Pin=C125-2
+Added Pin To Net: NetName=+5V_ANALOG Pin=C126-1
+Added Pin To Net: NetName=AGND Pin=C126-2
+Added Pin To Net: NetName=VIN_FUSED Pin=CR1-1
+Added Pin To Net: NetName=GND_SYS Pin=CR1-2
+Added Pin To Net: NetName=VFIELD Pin=CR2-1
+Added Pin To Net: NetName=GND_SYS Pin=CR2-2
+Added Pin To Net: NetName=GND_SYS Pin=D1-1
+Added Pin To Net: NetName=VIN_PROTECTED Pin=D1-2
+Added Pin To Net: NetName=NetC12_2 Pin=D2-1
+Added Pin To Net: NetName=+15V_AO Pin=D2-2
+Added Pin To Net: NetName=DI0_LED Pin=D3-1
+Added Pin To Net: NetName=GND_SYS Pin=D3-2
+Added Pin To Net: NetName=DI1_LED Pin=D4-1
+Added Pin To Net: NetName=GND_SYS Pin=D4-2
+Added Pin To Net: NetName=DI2_LED Pin=D5-1
+Added Pin To Net: NetName=GND_SYS Pin=D5-2
+Added Pin To Net: NetName=DI3_LED Pin=D6-1
+Added Pin To Net: NetName=GND_SYS Pin=D6-2
+Added Pin To Net: NetName=+3V3_DIG Pin=D7-1
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD8_1 Pin=D8-1
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD9_1 Pin=D9-1
+Added Pin To Net: NetName=NetD9_2 Pin=D9-2
+Added Pin To Net: NetName=NetD10_1 Pin=D10-1
+Added Pin To Net: NetName=NetD10_2 Pin=D10-2
+Added Pin To Net: NetName=NetD11_1 Pin=D11-1
+Added Pin To Net: NetName=NetD11_2 Pin=D11-2
+Added Pin To Net: NetName=NetD12_1 Pin=D12-1
+Added Pin To Net: NetName=NetD12_2 Pin=D12-2
+Added Pin To Net: NetName=VIN_FUSED Pin=F1-1
+Added Pin To Net: NetName=VIN_RAW Pin=F1-2
+Added Pin To Net: NetName=VIN_FUSED Pin=FB1-1
+Added Pin To Net: NetName=VIN_FILTERED Pin=FB1-2
+Added Pin To Net: NetName=+3V3_ETH_A Pin=FB2-1
+Added Pin To Net: NetName=+3V3_DIG Pin=FB2-2
+Added Pin To Net: NetName=NetC51_2 Pin=J2-4
+Added Pin To Net: NetName=NetC53_1 Pin=J2-5
+Added Pin To Net: NetName=NetC52_2 Pin=J2-6
+Added Pin To Net: NetName=CHASSIS_ETH Pin=J2-8
+Added Pin To Net: NetName=+3V3_DIG Pin=J2-9
+Added Pin To Net: NetName=+3V3_DIG Pin=J2-11
+Added Pin To Net: NetName=CHASSIS_ETH Pin=J2-14
+Added Pin To Net: NetName=CHASSIS_ETH Pin=J2-16
+Added Pin To Net: NetName=NetC12_1 Pin=L1-1
+Added Pin To Net: NetName=VIN_PROTECTED Pin=L1-2
+Added Pin To Net: NetName=NetC12_2 Pin=L2-1
+Added Pin To Net: NetName=GND_SYS Pin=L2-2
+Added Pin To Net: NetName=NetL3_1 Pin=L3-1
+Added Pin To Net: NetName=+1V1_CORE Pin=L3-2
+Added Pin To Net: NetName=+3V3_DIG Pin=L4-1
+Added Pin To Net: NetName=NetL4_2 Pin=L4-2
+Added Pin To Net: NetName=SW_NODE Pin=L5-1
+Added Pin To Net: NetName=+5V_PRE Pin=L5-2
+Added Pin To Net: NetName=VFIELD_OUT Pin=MOSFET1-6
+Added Pin To Net: NetName=VFIELD_OUT Pin=MOSFET2-6
+Added Pin To Net: NetName=DO1_FAULT Pin=MOSFET3-6
+Added Pin To Net: NetName=DO2_FAULT Pin=MOSFET4-6
+Added Pin To Net: NetName=EFUSE_RTN Pin=R1-1
+Added Pin To Net: NetName=PWR_IN_IMON Pin=R1-2
+Added Pin To Net: NetName=PWR_IN_FAULT_N Pin=R2-1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=+3V3_DIG Pin=R3-1
+Added Pin To Net: NetName=NetR2_2 Pin=R3-2
+Added Pin To Net: NetName=EFUSE_RTN Pin=R4-1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=EFUSE_RTN Pin=R5-2
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=VIN_FILTERED Pin=R7-1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR6_1 Pin=R8-2
+Added Pin To Net: NetName=NetC7_2 Pin=R9-1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=VIN_PROTECTED Pin=R10-1
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=GND_SYS Pin=R11-2
+Added Pin To Net: NetName=NetC11_1 Pin=R12-1
+Added Pin To Net: NetName=+15V_AO Pin=R12-2
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetC12_1 Pin=R13-2
+Added Pin To Net: NetName=NetC11_1 Pin=R14-1
+Added Pin To Net: NetName=GND_SYS Pin=R14-2
+Added Pin To Net: NetName=PWR_IN_FAULT_N Pin=R15-1
+Added Pin To Net: NetName=+3V3_DIG Pin=R15-2
+Added Pin To Net: NetName=AO_LATCH Pin=R16-1
+Added Pin To Net: NetName=+3V3_DIG Pin=R16-2
+Added Pin To Net: NetName=BOARD_FAULT_N Pin=R17-1
+Added Pin To Net: NetName=+3V3_DIG Pin=R17-2
+Added Pin To Net: NetName=NetR18_1 Pin=R18-1
+Added Pin To Net: NetName=USB_DM Pin=R18-2
+Added Pin To Net: NetName=NetR19_1 Pin=R19-1
+Added Pin To Net: NetName=USB_DP Pin=R19-2
+Added Pin To Net: NetName=NetC26_2 Pin=R20-1
+Added Pin To Net: NetName=+3V3_DIG Pin=R20-2
+Added Pin To Net: NetName=NetR21_1 Pin=R21-1
+Added Pin To Net: NetName=VIN_PROTECTED Pin=R21-2
+Added Pin To Net: NetName=NetR21_1 Pin=R22-1
+Added Pin To Net: NetName=GND_SYS Pin=R22-2
+Added Pin To Net: NetName=NetR23_1 Pin=R23-1
+Added Pin To Net: NetName=+15V_AO Pin=R23-2
+Added Pin To Net: NetName=NetR23_1 Pin=R24-1
+Added Pin To Net: NetName=GND_SYS Pin=R24-2
+Added Pin To Net: NetName=NetR25_1 Pin=R25-1
+Added Pin To Net: NetName=+5V_ANALOG Pin=R25-2
+Added Pin To Net: NetName=NetR25_1 Pin=R26-1
+Added Pin To Net: NetName=GND_SYS Pin=R26-2
+Added Pin To Net: NetName=GND_SYS Pin=R27-1
+Added Pin To Net: NetName=NetR27_2 Pin=R27-2
+Added Pin To Net: NetName=+3V3_DIG Pin=R28-1
+Added Pin To Net: NetName=QSPI_SS Pin=R28-2
+Added Pin To Net: NetName=+3V3_DIG Pin=R29-1
+Added Pin To Net: NetName=NetR29_2 Pin=R29-2
+Added Pin To Net: NetName=PSRAM_CS_N Pin=R30-1
+Added Pin To Net: NetName=NetR30_2 Pin=R30-2
+Added Pin To Net: NetName=+3V3_DIG Pin=R31-1
+Added Pin To Net: NetName=NetR30_2 Pin=R31-2
+Added Pin To Net: NetName=+3V3_DIG Pin=R32-1
+Added Pin To Net: NetName=ETH_CS_N Pin=R32-2
+Added Pin To Net: NetName=NetC38_2 Pin=R33-1
+Added Pin To Net: NetName=NetR33_2 Pin=R33-2
+Added Pin To Net: NetName=NetC44_2 Pin=R34-1
+Added Pin To Net: NetName=NetR33_2 Pin=R34-2
+Added Pin To Net: NetName=GND_SYS Pin=R35-1
+Added Pin To Net: NetName=NetR35_2 Pin=R35-2
+Added Pin To Net: NetName=NetR36_1 Pin=R36-1
+Added Pin To Net: NetName=+3V3_DIG Pin=R36-2
+Added Pin To Net: NetName=NetR37_1 Pin=R37-1
+Added Pin To Net: NetName=+3V3_DIG Pin=R37-2
+Added Pin To Net: NetName=NetR38_1 Pin=R38-1
+Added Pin To Net: NetName=+3V3_DIG Pin=R38-2
+Added Pin To Net: NetName=PHY_RX_N Pin=R39-1
+Added Pin To Net: NetName=NetC52_1 Pin=R39-2
+Added Pin To Net: NetName=PHY_RX_P Pin=R40-1
+Added Pin To Net: NetName=NetC51_1 Pin=R40-2
+Added Pin To Net: NetName=PHY_TX_P Pin=R41-1
+Added Pin To Net: NetName=USB_VBUS_DET Pin=R42-1
+Added Pin To Net: NetName=USB_VBUS Pin=R42-2
+Added Pin To Net: NetName=GND_SYS Pin=R43-1
+Added Pin To Net: NetName=USB_VBUS_DET Pin=R43-2
+Added Pin To Net: NetName=NetC52_1 Pin=R44-1
+Added Pin To Net: NetName=NetC53_1 Pin=R44-2
+Added Pin To Net: NetName=NetC51_1 Pin=R45-1
+Added Pin To Net: NetName=NetC53_1 Pin=R45-2
+Added Pin To Net: NetName=+3V3_ETH_A Pin=R46-2
+Added Pin To Net: NetName=GND_SYS Pin=R47-1
+Added Pin To Net: NetName=NetJ1_A5 Pin=R47-2
+Added Pin To Net: NetName=PHY_TX_N Pin=R48-1
+Added Pin To Net: NetName=GND_SYS Pin=R49-1
+Added Pin To Net: NetName=NetJ1_B5 Pin=R49-2
+Added Pin To Net: NetName=+3V3_ETH_A Pin=R50-2
+Added Pin To Net: NetName=+3V3_ETH_A Pin=R51-2
+Added Pin To Net: NetName=PHY_YELLOW Pin=R52-1
+Added Pin To Net: NetName=PHY_GREEN Pin=R53-1
+Added Pin To Net: NetName=RS485_DE_RE Pin=R54-1
+Added Pin To Net: NetName=GND_SYS Pin=R54-2
+Added Pin To Net: NetName=+3V3_DIG Pin=R55-1
+Added Pin To Net: NetName=NetR56_1 Pin=R56-1
+Added Pin To Net: NetName=RS485_B_ISO Pin=R56-2
+Added Pin To Net: NetName=NetR57_1 Pin=R57-1
+Added Pin To Net: NetName=RS485_A_ISO Pin=R57-2
+Added Pin To Net: NetName=NetR58_1 Pin=R58-1
+Added Pin To Net: NetName=RS485_A_ISO Pin=R58-2
+Added Pin To Net: NetName=RS485_B_ISO Pin=R59-2
+Added Pin To Net: NetName=RS485_A_ISO Pin=R60-2
+Added Pin To Net: NetName=+3V3_DIG Pin=R61-1
+Added Pin To Net: NetName=ADC_RST_PD_N Pin=R61-2
+Added Pin To Net: NetName=AGND Pin=R62-1
+Added Pin To Net: NetName=NetR62_2 Pin=R62-2
+Added Pin To Net: NetName=NODE_AI0_CLAMP Pin=R63-1
+Added Pin To Net: NetName=NODE_AI0_PROT Pin=R63-2
+Added Pin To Net: NetName=NODE_AI1_CLAMP Pin=R64-1
+Added Pin To Net: NetName=NODE_AI1_PROT Pin=R64-2
+Added Pin To Net: NetName=NODE_AI2_CLAMP Pin=R65-1
+Added Pin To Net: NetName=NODE_AI2_PROT Pin=R65-2
+Added Pin To Net: NetName=NODE_AI3_CLAMP Pin=R66-1
+Added Pin To Net: NetName=NODE_AI3_PROT Pin=R66-2
+Added Pin To Net: NetName=+3V3_DIG Pin=R67-1
+Added Pin To Net: NetName=ADC_CS_N Pin=R67-2
+Added Pin To Net: NetName=NODE_AI0_PROT Pin=R68-1
+Added Pin To Net: NetName=NetJ6_1 Pin=R68-2
+Added Pin To Net: NetName=NODE_AI1_PROT Pin=R69-1
+Added Pin To Net: NetName=NetJ7_1 Pin=R69-2
+Added Pin To Net: NetName=NODE_AI2_PROT Pin=R70-1
+Added Pin To Net: NetName=NetJ8_1 Pin=R70-2
+Added Pin To Net: NetName=NODE_AI3_PROT Pin=R71-1
+Added Pin To Net: NetName=NetJ9_1 Pin=R71-2
+Added Pin To Net: NetName=AI0_RET Pin=R72-1
+Added Pin To Net: NetName=AIN_0GND Pin=R72-2
+Added Pin To Net: NetName=NODE_AI0_PROT Pin=R73-1
+Added Pin To Net: NetName=AIN_0P Pin=R73-2
+Added Pin To Net: NetName=AI1_RET Pin=R74-1
+Added Pin To Net: NetName=AIN_1GND Pin=R74-2
+Added Pin To Net: NetName=NODE_AI1_PROT Pin=R75-1
+Added Pin To Net: NetName=AIN_1P Pin=R75-2
+Added Pin To Net: NetName=AI2_RET Pin=R76-1
+Added Pin To Net: NetName=AIN_2GND Pin=R76-2
+Added Pin To Net: NetName=NODE_AI2_PROT Pin=R77-1
+Added Pin To Net: NetName=AIN_2P Pin=R77-2
+Added Pin To Net: NetName=AI3_RET Pin=R78-1
+Added Pin To Net: NetName=AIN_3GND Pin=R78-2
+Added Pin To Net: NetName=NODE_AI3_PROT Pin=R79-1
+Added Pin To Net: NetName=AIN_3P Pin=R79-2
+Added Pin To Net: NetName=AGND Pin=R80-1
+Added Pin To Net: NetName=AI0_RET Pin=R80-2
+Added Pin To Net: NetName=AGND Pin=R81-1
+Added Pin To Net: NetName=AI1_RET Pin=R81-2
+Added Pin To Net: NetName=AGND Pin=R82-1
+Added Pin To Net: NetName=AI2_RET Pin=R82-2
+Added Pin To Net: NetName=AGND Pin=R83-1
+Added Pin To Net: NetName=AI3_RET Pin=R83-2
+Added Pin To Net: NetName=AO1_OUT Pin=R84-1
+Added Pin To Net: NetName=NetR84_2 Pin=R84-2
+Added Pin To Net: NetName=AGND Pin=R85-1
+Added Pin To Net: NetName=AO1_RET Pin=R85-2
+Added Pin To Net: NetName=AO1_RAW Pin=R86-1
+Added Pin To Net: NetName=AO1_OUT Pin=R86-2
+Added Pin To Net: NetName=NetR87_1 Pin=R87-1
+Added Pin To Net: NetName=AGND Pin=R87-2
+Added Pin To Net: NetName=NetR88_1 Pin=R88-1
+Added Pin To Net: NetName=AGND Pin=R88-2
+Added Pin To Net: NetName=AGND Pin=R89-1
+Added Pin To Net: NetName=AO0_RET Pin=R89-2
+Added Pin To Net: NetName=AO0_OUT Pin=R90-1
+Added Pin To Net: NetName=NetR90_2 Pin=R90-2
+Added Pin To Net: NetName=AO0_RAW Pin=R91-1
+Added Pin To Net: NetName=AO0_OUT Pin=R91-2
+Added Pin To Net: NetName=+3V3_DIG Pin=R92-1
+Added Pin To Net: NetName=DI_CS_N Pin=R92-2
+Added Pin To Net: NetName=+3V3_DIG Pin=R93-1
+Added Pin To Net: NetName=DI_READY_N Pin=R93-2
+Added Pin To Net: NetName=DO1_CMD Pin=R94-1
+Added Pin To Net: NetName=GND_SYS Pin=R94-2
+Added Pin To Net: NetName=DO2_CMD Pin=R95-1
+Added Pin To Net: NetName=GND_SYS Pin=R95-2
+Added Pin To Net: NetName=AND1_OUT Pin=R96-1
+Added Pin To Net: NetName=NetMOSFET1_1 Pin=R96-2
+Added Pin To Net: NetName=AND2_OUT Pin=R97-1
+Added Pin To Net: NetName=NetMOSFET2_1 Pin=R97-2
+Added Pin To Net: NetName=GND_SYS Pin=R98-1
+Added Pin To Net: NetName=IPS_IN1 Pin=R98-2
+Added Pin To Net: NetName=GND_SYS Pin=R99-1
+Added Pin To Net: NetName=IPS_IN2 Pin=R99-2
+Added Pin To Net: NetName=FLT1 Pin=R100-1
+Added Pin To Net: NetName=NetMOSFET3_1 Pin=R100-2
+Added Pin To Net: NetName=FLT2 Pin=R101-1
+Added Pin To Net: NetName=NetMOSFET4_1 Pin=R101-2
+Added Pin To Net: NetName=IPS_IN2 Pin=R102-1
+Added Pin To Net: NetName=NetR103_1 Pin=R103-1
+Added Pin To Net: NetName=GND_SYS Pin=R103-2
+Added Pin To Net: NetName=NetR104_1 Pin=R104-1
+Added Pin To Net: NetName=GND_SYS Pin=R104-2
+Added Pin To Net: NetName=NetR105_1 Pin=R105-1
+Added Pin To Net: NetName=IPS_IN1 Pin=R105-2
+Added Pin To Net: NetName=+3V3_DIG Pin=R106-1
+Added Pin To Net: NetName=DO1_FAULT Pin=R106-2
+Added Pin To Net: NetName=+3V3_DIG Pin=R107-1
+Added Pin To Net: NetName=DO2_FAULT Pin=R107-2
+Added Pin To Net: NetName=UIC0_SENSE Pin=R108-1
+Added Pin To Net: NetName=GND_SYS Pin=R108-2
+Added Pin To Net: NetName=UIC1_SENSE Pin=R109-1
+Added Pin To Net: NetName=GND_SYS Pin=R109-2
+Added Pin To Net: NetName=UIC2_SENSE Pin=R110-1
+Added Pin To Net: NetName=GND_SYS Pin=R110-2
+Added Pin To Net: NetName=UIC3_SENSE Pin=R111-1
+Added Pin To Net: NetName=GND_SYS Pin=R111-2
+Added Pin To Net: NetName=UIC0_SENSE Pin=R112-1
+Added Pin To Net: NetName=NetR112_2 Pin=R112-2
+Added Pin To Net: NetName=UIC1_SENSE Pin=R113-1
+Added Pin To Net: NetName=NetR113_2 Pin=R113-2
+Added Pin To Net: NetName=UIC2_SENSE Pin=R114-1
+Added Pin To Net: NetName=NetR114_2 Pin=R114-2
+Added Pin To Net: NetName=UIC3_SENSE Pin=R115-1
+Added Pin To Net: NetName=NetR115_2 Pin=R115-2
+Added Pin To Net: NetName=NetR112_2 Pin=R116-1
+Added Pin To Net: NetName=UIC0_FIELD Pin=R116-2
+Added Pin To Net: NetName=NetR113_2 Pin=R117-1
+Added Pin To Net: NetName=UIC1_FIELD Pin=R117-2
+Added Pin To Net: NetName=NetR114_2 Pin=R118-1
+Added Pin To Net: NetName=UIC2_FIELD Pin=R118-2
+Added Pin To Net: NetName=NetR115_2 Pin=R119-1
+Added Pin To Net: NetName=UIC3_FIELD Pin=R119-2
+Added Pin To Net: NetName=GND_SYS Pin=R120-1
+Added Pin To Net: NetName=UIC1_THRESH Pin=R120-2
+Added Pin To Net: NetName=GND_SYS Pin=R121-1
+Added Pin To Net: NetName=UIC2_THRESH Pin=R121-2
+Added Pin To Net: NetName=GND_SYS Pin=R122-1
+Added Pin To Net: NetName=UIC0_THRESH Pin=R122-2
+Added Pin To Net: NetName=UIC1_THRESH Pin=R123-1
+Added Pin To Net: NetName=+3V3_DIG Pin=R123-2
+Added Pin To Net: NetName=GND_SYS Pin=R124-1
+Added Pin To Net: NetName=UIC0_THRESH Pin=R125-1
+Added Pin To Net: NetName=+3V3_DIG Pin=R125-2
+Added Pin To Net: NetName=UIC2_THRESH Pin=R126-1
+Added Pin To Net: NetName=+3V3_DIG Pin=R126-2
+Added Pin To Net: NetName=UIC3_THRESH Pin=R127-1
+Added Pin To Net: NetName=+3V3_DIG Pin=R127-2
+Added Pin To Net: NetName=UIC1_THRESH Pin=R128-1
+Added Pin To Net: NetName=UIC1_COMP_N Pin=R128-2
+Added Pin To Net: NetName=UIC0_THRESH Pin=R129-1
+Added Pin To Net: NetName=UIC0_COMP_N Pin=R129-2
+Added Pin To Net: NetName=UIC2_THRESH Pin=R130-1
+Added Pin To Net: NetName=UIC2_COMP_N Pin=R130-2
+Added Pin To Net: NetName=UIC3_THRESH Pin=R131-1
+Added Pin To Net: NetName=UIC3_COMP_N Pin=R131-2
+Added Pin To Net: NetName=UIC1_IN Pin=R132-1
+Added Pin To Net: NetName=UIC1_COMP_N Pin=R132-2
+Added Pin To Net: NetName=UIC0_IN Pin=R133-1
+Added Pin To Net: NetName=UIC0_COMP_N Pin=R133-2
+Added Pin To Net: NetName=UIC2_IN Pin=R134-1
+Added Pin To Net: NetName=UIC2_COMP_N Pin=R134-2
+Added Pin To Net: NetName=UIC3_IN Pin=R135-1
+Added Pin To Net: NetName=UIC3_COMP_N Pin=R135-2
+Added Pin To Net: NetName=LED_RUN Pin=R136-1
+Added Pin To Net: NetName=NetR136_2 Pin=R136-2
+Added Pin To Net: NetName=LED_FAULT Pin=R137-1
+Added Pin To Net: NetName=NetR137_2 Pin=R137-2
+Added Pin To Net: NetName=LED_AO Pin=R138-1
+Added Pin To Net: NetName=NetR138_2 Pin=R138-2
+Added Pin To Net: NetName=LED_DO Pin=R139-1
+Added Pin To Net: NetName=NetR139_2 Pin=R139-2
+Added Pin To Net: NetName=LED_RS485 Pin=R140-1
+Added Pin To Net: NetName=NetR140_2 Pin=R140-2
+Added Pin To Net: NetName=GND_SYS Pin=R141-1
+Added Pin To Net: NetName=NetR136_2 Pin=R141-2
+Added Pin To Net: NetName=GND_SYS Pin=R142-1
+Added Pin To Net: NetName=NetR137_2 Pin=R142-2
+Added Pin To Net: NetName=GND_SYS Pin=R143-1
+Added Pin To Net: NetName=NetR138_2 Pin=R143-2
+Added Pin To Net: NetName=GND_SYS Pin=R144-1
+Added Pin To Net: NetName=NetR139_2 Pin=R144-2
+Added Pin To Net: NetName=GND_SYS Pin=R145-1
+Added Pin To Net: NetName=NetR140_2 Pin=R145-2
+Added Pin To Net: NetName=NetD7_2 Pin=R146-1
+Added Pin To Net: NetName=GND_SYS Pin=R146-2
+Added Pin To Net: NetName=NetD9_2 Pin=R147-1
+Added Pin To Net: NetName=+3V3_DIG Pin=R147-2
+Added Pin To Net: NetName=NetD10_2 Pin=R148-1
+Added Pin To Net: NetName=+3V3_DIG Pin=R148-2
+Added Pin To Net: NetName=NetD11_2 Pin=R149-1
+Added Pin To Net: NetName=+3V3_DIG Pin=R149-2
+Added Pin To Net: NetName=NetD12_2 Pin=R150-1
+Added Pin To Net: NetName=+3V3_DIG Pin=R150-2
+Added Pin To Net: NetName=NetD8_2 Pin=R151-1
+Added Pin To Net: NetName=+3V3_DIG Pin=R151-2
+Added Pin To Net: NetName=GND_SYS Pin=R152-1
+Added Pin To Net: NetName=NetR152_2 Pin=R152-2
+Added Pin To Net: NetName=+3V3_DIG Pin=R153-1
+Added Pin To Net: NetName=NetR152_2 Pin=R153-2
+Added Pin To Net: NetName=+3V3_DIG Pin=R154-1
+Added Pin To Net: NetName=MANUAL_RESET_N Pin=R154-2
+Added Pin To Net: NetName=WD_ENABLE Pin=R155-1
+Added Pin To Net: NetName=GND_SYS Pin=R155-2
+Added Pin To Net: NetName=+3V3_DIG Pin=R156-1
+Added Pin To Net: NetName=PWR_3V3_PGOOD_N Pin=R156-2
+Added Pin To Net: NetName=GND_SYS Pin=R157-1
+Added Pin To Net: NetName=NetR157_2 Pin=R157-2
+Added Pin To Net: NetName=GND_SYS Pin=R158-1
+Added Pin To Net: NetName=NetR158_2 Pin=R158-2
+Added Pin To Net: NetName=GND_SYS Pin=R159-1
+Added Pin To Net: NetName=NetR159_2 Pin=R159-2
+Added Pin To Net: NetName=+3V3_DIG Pin=R160-1
+Added Pin To Net: NetName=PWR_5V_PGOOD_N Pin=R160-2
+Added Pin To Net: NetName=GND_SYS Pin=R161-1
+Added Pin To Net: NetName=NetR161_2 Pin=R161-2
+Added Pin To Net: NetName=VIN_PROTECTED Pin=R162-1
+Added Pin To Net: NetName=NetR162_2 Pin=R162-2
+Added Pin To Net: NetName=WD_KICK Pin=R163-1
+Added Pin To Net: NetName=GND_SYS Pin=R163-2
+Added Pin To Net: NetName=NetR164_1 Pin=R164-1
+Added Pin To Net: NetName=SYS_RESET_N Pin=R164-2
+Added Pin To Net: NetName=NetR165_1 Pin=R165-1
+Added Pin To Net: NetName=SYS_RESET_N Pin=R165-2
+Added Pin To Net: NetName=+3V3_DIG Pin=R166-1
+Added Pin To Net: NetName=SYS_RESET_N Pin=R166-2
+Added Pin To Net: NetName=NetC114_2 Pin=R167-1
+Added Pin To Net: NetName=+5V_PRE Pin=R167-2
+Added Pin To Net: NetName=NetC116_2 Pin=R168-1
+Added Pin To Net: NetName=+5V_PRE Pin=R168-2
+Added Pin To Net: NetName=NetR169_1 Pin=R169-1
+Added Pin To Net: NetName=+5V_PRE Pin=R169-2
+Added Pin To Net: NetName=NetC116_2 Pin=R170-1
+Added Pin To Net: NetName=GND_SYS Pin=R170-2
+Added Pin To Net: NetName=AO_ENABLE_REQ Pin=R171-1
+Added Pin To Net: NetName=GND_SYS Pin=R171-2
+Added Pin To Net: NetName=DO_ENABLE_REQ Pin=R172-1
+Added Pin To Net: NetName=GND_SYS Pin=R172-2
+Added Pin To Net: NetName=+5V_PRE Pin=R173-1
+Added Pin To Net: NetName=NetR173_2 Pin=R173-2
+Added Pin To Net: NetName=+5V_PRE Pin=R174-1
+Added Pin To Net: NetName=NetR174_2 Pin=R174-2
+Added Pin To Net: NetName=GND_SYS Pin=R175-1
+Added Pin To Net: NetName=AGND Pin=R175-2
+Added Pin To Net: NetName=NetR176_1 Pin=R176-1
+Added Pin To Net: NetName=AO_SAFE_EN Pin=R176-2
+Added Pin To Net: NetName=NetR177_1 Pin=R177-1
+Added Pin To Net: NetName=DO_SAFE_EN Pin=R177-2
+Added Pin To Net: NetName=AO_SAFE_EN Pin=R178-1
+Added Pin To Net: NetName=GND_SYS Pin=R178-2
+Added Pin To Net: NetName=GND_SYS Pin=R179-1
+Added Pin To Net: NetName=DO_SAFE_EN Pin=R179-2
+Added Pin To Net: NetName=VIN_PROTECTED_MON Pin=R_RP1-1
+Added Pin To Net: NetName=AO_15V_MON Pin=R_RP2-1
+Added Pin To Net: NetName=NetR23_1 Pin=R_RP2-2
+Added Pin To Net: NetName=ANA_5V_MON Pin=R_RP3-1
+Added Pin To Net: NetName=NetR25_1 Pin=R_RP3-2
+Added Pin To Net: NetName=QSPI_SS Pin=SW1-1
+Added Pin To Net: NetName=NetR27_2 Pin=SW1-3
+Added Pin To Net: NetName=AGND Pin=U12-25
+Added Pin To Net: NetName=AGND Pin=U13-25
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-3
+Added Pin To Net: NetName=NetJ2_1 Pin=R41-2
+Added Pin To Net: NetName=NetJ2_1 Pin=R46-1
+Added Pin To Net: NetName=NetJ2_1 Pin=R48-2
+Added Pin To Net: NetName=NetJ2_1 Pin=R51-1
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=R50-1
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetJ2_10 Pin=J2-10
+Added Pin To Net: NetName=NetJ2_10 Pin=R52-2
+Added Net: Name=NetJ2_10
+Added Pin To Net: NetName=NetJ2_12 Pin=J2-12
+Added Pin To Net: NetName=NetJ2_12 Pin=R53-2
+Added Net: Name=NetJ2_12
+Added Pin To Net: NetName=NetR59_1 Pin=R59-1
+Added Pin To Net: NetName=NetR59_1 Pin=U8-19
+Added Net: Name=NetR59_1
+Change Class Name : Old Net Name=02A_POWER_RAILS New Net Name=03_MCU_RP2350
+Change Class Name : Old Net Name=03_MCU_RP2350 New Net Name=05_ETHERNET_USB
+Change Class Name : Old Net Name=04_MEMORY New Net Name=06_RS485
+Change Class Name : Old Net Name=05_ETHERNET_USB New Net Name=07_ANALOG_INPUTS
+Change Class Name : Old Net Name=07_ANALOG_INPUTS New Net Name=09_DIGITAL_IO
+Change Class Name : Old Net Name=09_DIGITAL_IO New Net Name=10_UNIVERSAL_INPUTS
+Change Class Name : Old Net Name=10_UNIVERSAL_INPUTS New Net Name=11_LEDS
+Added Class: Name=02A_POWER_RAILS
+Added Class: Name=04_MEMORY
+Added Member To Class: ClassName=02B_AO_POWER Member=Component C6 Capacitor
+Added Member To Class: ClassName=02B_AO_POWER Member=Component C7 Capacitor
+Added Member To Class: ClassName=02B_AO_POWER Member=Component C8 Capacitor
+Added Member To Class: ClassName=02B_AO_POWER Member=Component C9 Capacitor
+Added Member To Class: ClassName=02B_AO_POWER Member=Component C10 Capacitor
+Added Member To Class: ClassName=02B_AO_POWER Member=Component C11 Capacitor
+Added Member To Class: ClassName=02B_AO_POWER Member=Component C12 Capacitor
+Added Member To Class: ClassName=02B_AO_POWER Member=Component C13 Capacitor
+Added Member To Class: ClassName=03_MCU_RP2350 Member=Component C29 Capacitor
+Added Member To Class: ClassName=03_MCU_RP2350 Member=Component C30 Capacitor
+Added Member To Class: ClassName=03_MCU_RP2350 Member=Component C31 Capacitor
+Added Member To Class: ClassName=03_MCU_RP2350 Member=Component C32 Capacitor
+Added Member To Class: ClassName=03_MCU_RP2350 Member=Component C33 Capacitor
+Added Member To Class: ClassName=03_MCU_RP2350 Member=Component C34 Capacitor
+Added Member To Class: ClassName=05_ETHERNET_USB Member=Component C47 Capacitor
+Added Member To Class: ClassName=06_RS485 Member=Component C54 Capacitor
+Added Member To Class: ClassName=06_RS485 Member=Component C55 Capacitor
+Added Member To Class: ClassName=06_RS485 Member=Component C59 Capacitor
+Added Member To Class: ClassName=07_ANALOG_INPUTS Member=Component C75 Capacitor
+Added Member To Class: ClassName=08_ANALOG_OUTPUTS Member=Component C76 Capacitor
+Added Member To Class: ClassName=08_ANALOG_OUTPUTS Member=Component C77 Capacitor
+Added Member To Class: ClassName=08_ANALOG_OUTPUTS Member=Component C78 Capacitor
+Added Member To Class: ClassName=08_ANALOG_OUTPUTS Member=Component C79 Capacitor
+Added Member To Class: ClassName=08_ANALOG_OUTPUTS Member=Component C80 Capacitor
+Added Member To Class: ClassName=08_ANALOG_OUTPUTS Member=Component C81 Capacitor
+Added Member To Class: ClassName=08_ANALOG_OUTPUTS Member=Component C82 Capacitor
+Added Member To Class: ClassName=08_ANALOG_OUTPUTS Member=Component C83 Capacitor
+Added Member To Class: ClassName=08_ANALOG_OUTPUTS Member=Component C84 Capacitor
+Added Member To Class: ClassName=08_ANALOG_OUTPUTS Member=Component C85 Capacitor
+Added Member To Class: ClassName=08_ANALOG_OUTPUTS Member=Component C86 Capacitor
+Added Member To Class: ClassName=08_ANALOG_OUTPUTS Member=Component C87 Capacitor
+Added Member To Class: ClassName=08_ANALOG_OUTPUTS Member=Component C88 Capacitor
+Added Member To Class: ClassName=08_ANALOG_OUTPUTS Member=Component C89 Capacitor
+Added Member To Class: ClassName=09_DIGITAL_IO Member=Component C97 Capacitor
+Added Member To Class: ClassName=09_DIGITAL_IO Member=Component C98 Capacitor
+Added Member To Class: ClassName=10_UNIVERSAL_INPUTS Member=Component C99 Capacitor
+Added Member To Class: ClassName=10_UNIVERSAL_INPUTS Member=Component C100 Capacitor
+Added Member To Class: ClassName=10_UNIVERSAL_INPUTS Member=Component C101 Capacitor
+Added Member To Class: ClassName=10_UNIVERSAL_INPUTS Member=Component C102 Capacitor
+Added Member To Class: ClassName=10_UNIVERSAL_INPUTS Member=Component C103 Capacitor
+Added Member To Class: ClassName=01_POWER_INPUT Member=Component CR2 5.0SMDJ36CA
+Added Member To Class: ClassName=01_POWER_INPUT Member=Component CR3 STPST10H100SBYTR
+Added Member To Class: ClassName=07_ANALOG_INPUTS Member=Component CR4 SMBJ12CA
+Added Member To Class: ClassName=07_ANALOG_INPUTS Member=Component CR5 SMBJ12CA
+Added Member To Class: ClassName=07_ANALOG_INPUTS Member=Component CR6 SMBJ12CA
+Added Member To Class: ClassName=07_ANALOG_INPUTS Member=Component CR7 SMBJ12CA
+Added Member To Class: ClassName=07_ANALOG_INPUTS Member=Component CR8 CDSOD323-T12C
+Added Member To Class: ClassName=07_ANALOG_INPUTS Member=Component CR9 CDSOD323-T12C
+Added Member To Class: ClassName=07_ANALOG_INPUTS Member=Component CR10 CDSOD323-T12C
+Added Member To Class: ClassName=07_ANALOG_INPUTS Member=Component CR11 CDSOD323-T12C
+Added Member To Class: ClassName=08_ANALOG_OUTPUTS Member=Component CR12 SMBJ15A
+Added Member To Class: ClassName=08_ANALOG_OUTPUTS Member=Component CR14 SMBJ15A
+Added Member To Class: ClassName=08_ANALOG_OUTPUTS Member=Component CR15 BAS70-04LT1G
+Added Member To Class: ClassName=10_UNIVERSAL_INPUTS Member=Component CR16 SMBJ36CA
+Added Member To Class: ClassName=10_UNIVERSAL_INPUTS Member=Component CR17 SMBJ36CA
+Added Member To Class: ClassName=10_UNIVERSAL_INPUTS Member=Component CR18 SMBJ36CA
+Added Member To Class: ClassName=10_UNIVERSAL_INPUTS Member=Component CR19 SMBJ36CA
+Added Member To Class: ClassName=02B_AO_POWER Member=Component D2 Schottky Diode
+Added Member To Class: ClassName=09_DIGITAL_IO Member=Component D3 Light-Emitting Diode
+Added Member To Class: ClassName=09_DIGITAL_IO Member=Component D4 Light-Emitting Diode
+Added Member To Class: ClassName=09_DIGITAL_IO Member=Component D5 Light-Emitting Diode
+Added Member To Class: ClassName=09_DIGITAL_IO Member=Component D6 Light-Emitting Diode
+Added Member To Class: ClassName=11_LEDS Member=Component D7 Light-Emitting Diode
+Added Member To Class: ClassName=11_LEDS Member=Component D8 Light-Emitting Diode
+Added Member To Class: ClassName=11_LEDS Member=Component D9 Light-Emitting Diode
+Added Member To Class: ClassName=11_LEDS Member=Component D10 Light-Emitting Diode
+Added Member To Class: ClassName=11_LEDS Member=Component D11 Light-Emitting Diode
+Added Member To Class: ClassName=11_LEDS Member=Component D12 Light-Emitting Diode
+Added Member To Class: ClassName=07_ANALOG_INPUTS Member=Component F3 PTS120630V012
+Added Member To Class: ClassName=07_ANALOG_INPUTS Member=Component F4 PTS120630V012
+Added Member To Class: ClassName=07_ANALOG_INPUTS Member=Component F5 PTS120630V012
+Added Member To Class: ClassName=07_ANALOG_INPUTS Member=Component F6 PTS120630V012
+Added Member To Class: ClassName=05_ETHERNET_USB Member=Component FB2 120R 100MHz
+Added Member To Class: ClassName=05_ETHERNET_USB Member=Component J1 USB4145-03-0230-C
+Added Member To Class: ClassName=05_ETHERNET_USB Member=Component J2 TMJD4012BENL
+Added Member To Class: ClassName=06_RS485 Member=Component J3
+Added Member To Class: ClassName=06_RS485 Member=Component J4 Connector, 3pin, 9.53mm, 300VAC, 25A
+Added Member To Class: ClassName=07_ANALOG_INPUTS Member=Component J5 Terminal connector, 6pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=07_ANALOG_INPUTS Member=Component J6
+Added Member To Class: ClassName=07_ANALOG_INPUTS Member=Component J7
+Added Member To Class: ClassName=07_ANALOG_INPUTS Member=Component J8
+Added Member To Class: ClassName=07_ANALOG_INPUTS Member=Component J9
+Added Member To Class: ClassName=08_ANALOG_OUTPUTS Member=Component J11 Terminal connector, 2pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=02B_AO_POWER Member=Component L1 Inductor
+Added Member To Class: ClassName=02B_AO_POWER Member=Component L2 Inductor
+Added Member To Class: ClassName=03_MCU_RP2350 Member=Component L3 Inductor
+Added Member To Class: ClassName=09_DIGITAL_IO Member=Component MOSFET1 TLP383(GR-TPL,E
+Added Member To Class: ClassName=09_DIGITAL_IO Member=Component MOSFET2 TLP383(GR-TPL,E
+Added Member To Class: ClassName=09_DIGITAL_IO Member=Component MOSFET3 TLP383(GR-TPL,E
+Added Member To Class: ClassName=09_DIGITAL_IO Member=Component MOSFET4 TLP383(GR-TPL,E
+Added Member To Class: ClassName=01_POWER_INPUT Member=Component R7 Resistor
+Added Member To Class: ClassName=01_POWER_INPUT Member=Component R8 Resistor
+Added Member To Class: ClassName=02B_AO_POWER Member=Component R9 Resistor
+Added Member To Class: ClassName=02B_AO_POWER Member=Component R10 Resistor
+Added Member To Class: ClassName=02B_AO_POWER Member=Component R11 Resistor
+Added Member To Class: ClassName=02B_AO_POWER Member=Component R12 Resistor
+Added Member To Class: ClassName=02B_AO_POWER Member=Component R13 Resistor
+Added Member To Class: ClassName=02B_AO_POWER Member=Component R14 Resistor
+Added Member To Class: ClassName=05_ETHERNET_USB Member=Component R32 Resistor
+Added Member To Class: ClassName=05_ETHERNET_USB Member=Component R33 Resistor
+Added Member To Class: ClassName=05_ETHERNET_USB Member=Component R34 Resistor
+Added Member To Class: ClassName=05_ETHERNET_USB Member=Component R35 Resistor
+Added Member To Class: ClassName=05_ETHERNET_USB Member=Component R36 Resistor
+Added Member To Class: ClassName=05_ETHERNET_USB Member=Component R37 Resistor
+Added Member To Class: ClassName=05_ETHERNET_USB Member=Component R38 Resistor
+Added Member To Class: ClassName=05_ETHERNET_USB Member=Component R39 Resistor
+Added Member To Class: ClassName=05_ETHERNET_USB Member=Component R40 Resistor
+Added Member To Class: ClassName=05_ETHERNET_USB Member=Component R53 Resistor
+Added Member To Class: ClassName=06_RS485 Member=Component R58 Resistor
+Added Member To Class: ClassName=06_RS485 Member=Component R59 Resistor
+Added Member To Class: ClassName=06_RS485 Member=Component R60 Resistor
+Added Member To Class: ClassName=07_ANALOG_INPUTS Member=Component R80 Resistor
+Added Member To Class: ClassName=07_ANALOG_INPUTS Member=Component R81 Resistor
+Added Member To Class: ClassName=07_ANALOG_INPUTS Member=Component R82 Resistor
+Added Member To Class: ClassName=07_ANALOG_INPUTS Member=Component R83 Resistor
+Added Member To Class: ClassName=08_ANALOG_OUTPUTS Member=Component R84 Resistor
+Added Member To Class: ClassName=08_ANALOG_OUTPUTS Member=Component R85 Resistor
+Added Member To Class: ClassName=08_ANALOG_OUTPUTS Member=Component R86 Resistor
+Added Member To Class: ClassName=08_ANALOG_OUTPUTS Member=Component R87 Resistor
+Added Member To Class: ClassName=08_ANALOG_OUTPUTS Member=Component R88 Resistor
+Added Member To Class: ClassName=08_ANALOG_OUTPUTS Member=Component R89 Resistor
+Added Member To Class: ClassName=08_ANALOG_OUTPUTS Member=Component R90 Resistor
+Added Member To Class: ClassName=08_ANALOG_OUTPUTS Member=Component R91 Resistor
+Added Member To Class: ClassName=10_UNIVERSAL_INPUTS Member=Component R108 Resistor
+Added Member To Class: ClassName=10_UNIVERSAL_INPUTS Member=Component R109 Resistor
+Added Member To Class: ClassName=10_UNIVERSAL_INPUTS Member=Component R110 Resistor
+Added Member To Class: ClassName=10_UNIVERSAL_INPUTS Member=Component R111 Resistor
+Added Member To Class: ClassName=10_UNIVERSAL_INPUTS Member=Component R112 Resistor
+Added Member To Class: ClassName=10_UNIVERSAL_INPUTS Member=Component R113 Resistor
+Added Member To Class: ClassName=10_UNIVERSAL_INPUTS Member=Component R114 Resistor
+Added Member To Class: ClassName=10_UNIVERSAL_INPUTS Member=Component R115 Resistor
+Added Member To Class: ClassName=10_UNIVERSAL_INPUTS Member=Component R116 Resistor
+Added Member To Class: ClassName=10_UNIVERSAL_INPUTS Member=Component R117 Resistor
+Added Member To Class: ClassName=10_UNIVERSAL_INPUTS Member=Component R134 Resistor
+Added Member To Class: ClassName=10_UNIVERSAL_INPUTS Member=Component R135 Resistor
+Added Member To Class: ClassName=09_DIGITAL_IO Member=Component R_DI1 CRCW25121K50FKEGHP
+Added Member To Class: ClassName=09_DIGITAL_IO Member=Component R_DI2 CRCW25121K50FKEGHP
+Added Member To Class: ClassName=09_DIGITAL_IO Member=Component R_DI3 CRCW25121K50FKEGHP
+Added Member To Class: ClassName=09_DIGITAL_IO Member=Component R_DI4 CRCW25121K50FKEGHP
+Added Member To Class: ClassName=03_MCU_RP2350 Member=Component R_RP1 Resistor
+Added Member To Class: ClassName=03_MCU_RP2350 Member=Component R_RP2 Resistor
+Added Member To Class: ClassName=03_MCU_RP2350 Member=Component R_RP3 Resistor
+Added Member To Class: ClassName=10_UNIVERSAL_INPUTS Member=Component TP3 Test point, Keystone, 5001
+Added Member To Class: ClassName=10_UNIVERSAL_INPUTS Member=Component TP4 Test point, Keystone, 5001
+Added Member To Class: ClassName=10_UNIVERSAL_INPUTS Member=Component TP5 Test point, Keystone, 5001
+Added Member To Class: ClassName=10_UNIVERSAL_INPUTS Member=Component TP6 Test point, Keystone, 5001
+Added Member To Class: ClassName=03_MCU_RP2350 Member=Component U3 RP2350B
+Added Member To Class: ClassName=05_ETHERNET_USB Member=Component U6 W5500
+Added Member To Class: ClassName=05_ETHERNET_USB Member=Component U7 TPD2EUSB30ADRTR
+Added Member To Class: ClassName=06_RS485 Member=Component U8 ISOW1432DFMR
+Added Member To Class: ClassName=06_RS485 Member=Component U9 SM712.TCT
+Added Member To Class: ClassName=07_ANALOG_INPUTS Member=Component U10 ADS8688IDBTR
+Added Member To Class: ClassName=08_ANALOG_OUTPUTS Member=Component U11 OPA2991IDR
+Added Member To Class: ClassName=08_ANALOG_OUTPUTS Member=Component U12 AD5422BREZ
+Added Member To Class: ClassName=08_ANALOG_OUTPUTS Member=Component U13 AD5422BREZ
+Added Member To Class: ClassName=08_ANALOG_OUTPUTS Member=Component U14 SN74LVC2G04DBVR
+Added Member To Class: ClassName=09_DIGITAL_IO Member=Component U15 SN74LVC2G08DCTR
+Added Member To Class: ClassName=09_DIGITAL_IO Member=Component U16 MAX22190ATJ+
+Added Member To Class: ClassName=09_DIGITAL_IO Member=Component U17 IPS2050HTR
+Added Member To Class: ClassName=10_UNIVERSAL_INPUTS Member=Component U18 BAS70LT1G
+Added Member To Class: ClassName=10_UNIVERSAL_INPUTS Member=Component U19 BAS70LT1G
+Added Member To Class: ClassName=10_UNIVERSAL_INPUTS Member=Component U20 BAS70LT1G
+Added Member To Class: ClassName=10_UNIVERSAL_INPUTS Member=Component U21 BAS70LT1G
+Added Member To Class: ClassName=10_UNIVERSAL_INPUTS Member=Component U22 TLV9034PWR
+Added Member To Class: ClassName=11_LEDS Member=Component U23 2N7002LT1G
+Added Member To Class: ClassName=11_LEDS Member=Component U24 2N7002LT1G
+Added Member To Class: ClassName=11_LEDS Member=Component U25 2N7002LT1G
+Added Member To Class: ClassName=11_LEDS Member=Component U26 2N7002LT1G
+Added Member To Class: ClassName=11_LEDS Member=Component U27 2N7002LT1G
+Added Member To Class: ClassName=03_MCU_RP2350 Member=Component X2 Connector, 4pin, 2.54mm, 250VAC, 3A
+Added Member To Class: ClassName=03_MCU_RP2350 Member=Component X3 ABM8-12.000MHZ-B2-T
+Added Member To Class: ClassName=09_DIGITAL_IO Member=Component X4 Terminal connector, 6pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=09_DIGITAL_IO Member=Component X5 Terminal connector, 2pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=09_DIGITAL_IO Member=Component X6 Terminal connector, 2pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=05_ETHERNET_USB Member=Component XTAL1 445I23D25M00000

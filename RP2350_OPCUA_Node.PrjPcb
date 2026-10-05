@@ -135,23 +135,6 @@ GenerateClassCluster=0
 DocumentUniqueId=VLKAGKHG
 
 [Document6]
-DocumentPath=library\Imported RP2350B_QFN-80_EP_10.573x10.573_Pitch0.4mm\RP2350_KiCad-main.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EHLAYDGQ
-
-[Document7]
 DocumentPath=library\Imported RP2350B_QFN-80_EP_10.573x10.573_Pitch0.4mm\rp2350b-qfn80.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DBTPPWCP
 
-[Document8]
+[Document7]
 DocumentPath=RP2350_OPCUA_Node.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document8]
 DocumentPath=library\ul_APS6404L-3SQR-SN\Altium\APS6404L-3SQR-SN\05_ETHERNET_USB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FIPRYNDX
 
-[Document10]
+[Document9]
 DocumentPath=..\..\Downloads\Дисер-20260823T205534Z-1-001\Дисер\ul_744878004\Altium\744878004.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DSEINFFB
 
-[Document11]
+[Document10]
 DocumentPath=..\..\Downloads\Дисер-20260823T205534Z-1-001\Дисер\ul_744878004\Altium\744878004.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AXKINGHC
 
-[Document12]
+[Document11]
 DocumentPath=..\..\Downloads\Дисер-20260823T205534Z-1-001\Дисер\ul_AD5422BREZ\Altium\AD5422BREZ.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KLQETNAL
 
-[Document13]
+[Document12]
 DocumentPath=..\..\Downloads\Дисер-20260823T205534Z-1-001\Дисер\ul_AD5422BREZ\Altium\AD5422BREZ.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WDAPOCHB
 
-[Document14]
+[Document13]
 DocumentPath=..\..\Downloads\Дисер-20260823T205534Z-1-001\Дисер\ul_ADS8688IDBTR\Altium\ADS8688IDBTR\ADS8688IDBTR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ABVPUAQR
 
-[Document15]
+[Document14]
 DocumentPath=..\..\Downloads\Дисер-20260823T205534Z-1-001\Дисер\ul_ADS8688IDBTR\Altium\ADS8688IDBTR\ADS8688IDBTR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TGURAPDC
 
-[Document16]
+[Document15]
 DocumentPath=..\..\Downloads\Дисер-20260823T205534Z-1-001\Дисер\ul_APS6404L-3SQR-SN\Altium\APS6404L-3SQR-SN\APS6404L-3SQR-SN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NYITSHOM
 
-[Document17]
+[Document16]
 DocumentPath=..\..\Downloads\Дисер-20260823T205534Z-1-001\Дисер\ul_APS6404L-3SQR-SN\Altium\APS6404L-3SQR-SN\APS6404L-3SQR-SN.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RCQYRMIM
 
-[Document18]
+[Document17]
 DocumentPath=..\..\Downloads\Дисер-20260823T205534Z-1-001\Дисер\ul_IPS2050HTR\Altium\IPS2050HTR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IXOSRMHQ
 
-[Document19]
+[Document18]
 DocumentPath=..\..\Downloads\Дисер-20260823T205534Z-1-001\Дисер\ul_IPS2050HTR\Altium\IPS2050HTR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OHKURLSV
 
-[Document20]
+[Document19]
 DocumentPath=..\..\Downloads\Дисер-20260823T205534Z-1-001\Дисер\ul_ISOW1432DFMR\Altium\ISOW1432DFMR\ISOW1432DFMR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KMFPLFRX
 
-[Document21]
+[Document20]
 DocumentPath=..\..\Downloads\Дисер-20260823T205534Z-1-001\Дисер\ul_ISOW1432DFMR\Altium\ISOW1432DFMR\ISOW1432DFMR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VMZVGLNU
 
-[Document22]
+[Document21]
 DocumentPath=library\ul_J0011D21BNL\Altium\J0011D21BNL.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TJTLXYAE
 
-[Document23]
+[Document22]
 DocumentPath=library\ul_J0011D21BNL\Altium\J0011D21BNL.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TWGHBGGT
 
-[Document24]
+[Document23]
 DocumentPath=library\ul_LM76003RNPR\Altium\LM76003RNPR\LM76003RNPR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -457,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BXPVJQRH
 
-[Document25]
+[Document24]
 DocumentPath=library\ul_LM76003RNPR\Altium\LM76003RNPR\LM76003RNPR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -474,7 +457,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FYVVBEWK
 
-[Document26]
+[Document25]
 DocumentPath=library\ul_W25Q128JVBIQ\Altium\W25Q128JVBIQ.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -491,7 +474,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HSGRHSBE
 
-[Document27]
+[Document26]
 DocumentPath=library\ul_W25Q128JVBIQ\Altium\W25Q128JVBIQ.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -508,7 +491,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TVGUKLNQ
 
-[Document28]
+[Document27]
 DocumentPath=library\ul_UJ20-C-V-SMT-TR-68\Altium\UJ20-C-V-SMT-TR-68.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -525,7 +508,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EYDPDJKQ
 
-[Document29]
+[Document28]
 DocumentPath=library\ul_UJ20-C-V-SMT-TR-68\Altium\UJ20-C-V-SMT-TR-68.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -542,7 +525,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DQXXVLRE
 
-[Document30]
+[Document29]
 DocumentPath=library\ul_ABM8-272-T3\Altium\ABM8-272-T3\ABM8-272-T3.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -559,7 +542,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ULJPQOIW
 
-[Document31]
+[Document30]
 DocumentPath=library\ul_ABM8-272-T3\Altium\ABM8-272-T3\ABM8-272-T3.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -576,7 +559,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IZKLNGVQ
 
-[Document32]
+[Document31]
 DocumentPath=library\ul_APS6404L-3SQR-SN\Altium\APS6404L-3SQR-SN\APS6404L-3SQR-SN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -593,7 +576,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LVVDNNHQ
 
-[Document33]
+[Document32]
 DocumentPath=library\ul_APS6404L-3SQR-SN\Altium\APS6404L-3SQR-SN\APS6404L-3SQR-SN.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -610,7 +593,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BPYXFWCP
 
-[Document34]
+[Document33]
 DocumentPath=library\ul_W5500\Altium\W5500\W5500.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -627,7 +610,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=COITFGTT
 
-[Document35]
+[Document34]
 DocumentPath=library\ul_W5500\Altium\W5500\W5500.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -644,7 +627,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WAAUBRON
 
-[Document36]
+[Document35]
 DocumentPath=06_RS485.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -661,7 +644,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KNILBHTP
 
-[Document37]
+[Document36]
 DocumentPath=library\J0011D21BNL\J0011D21BNL.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -678,7 +661,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BQHULAMY
 
-[Document38]
+[Document37]
 DocumentPath=library\J0011D21BNL\J0011D21BNL.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -695,7 +678,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ABIFPHMT
 
-[Document39]
+[Document38]
 DocumentPath=library\445I23D25M00000\445I23D25M00000.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -712,7 +695,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MNSKWKPL
 
-[Document40]
+[Document39]
 DocumentPath=library\445I23D25M00000\445I23D25M00000.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -729,7 +712,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QHDKZZFZ
 
-[Document41]
+[Document40]
 DocumentPath=library\USB4145-03-0230-C\USB4145-03-0230-C.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -746,7 +729,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QAVYDTRG
 
-[Document42]
+[Document41]
 DocumentPath=library\USB4145-03-0230-C\USB4145-03-0230-C.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -763,7 +746,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YMRNZROT
 
-[Document43]
+[Document42]
 DocumentPath=library\ul_TMJD4012BENL\Altium\TMJD4012BENL.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -780,7 +763,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CVSXWLMI
 
-[Document44]
+[Document43]
 DocumentPath=library\ul_TMJD4012BENL\Altium\TMJD4012BENL.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -797,7 +780,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PVHFCHLV
 
-[Document45]
+[Document44]
 DocumentPath=library\ul_TPD2EUSB30ADRTR\Altium\TPD2EUSB30ADRTR\TPD2EUSB30ADRTR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -814,7 +797,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TPFGNMFM
 
-[Document46]
+[Document45]
 DocumentPath=library\ul_TPD2EUSB30ADRTR\Altium\TPD2EUSB30ADRTR\TPD2EUSB30ADRTR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -831,7 +814,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PAJDNMGW
 
-[Document47]
+[Document46]
 DocumentPath=library\ul_SM712-TCT\Altium\SM712-TCT\07_ANALOG_INPUTS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -848,7 +831,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EVIPQWLX
 
-[Document48]
+[Document47]
 DocumentPath=library\ul_SM712-TCT\Altium\SM712-TCT\SM712PTCT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -865,7 +848,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PSGNGBNG
 
-[Document49]
+[Document48]
 DocumentPath=library\ul_SM712-TCT\Altium\SM712-TCT\SM712PTCT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -882,7 +865,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SXIPIVRZ
 
-[Document50]
+[Document49]
 DocumentPath=library\RP2350B-Footprint-main\RP2350B.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -899,7 +882,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HILBUTMQ
 
-[Document51]
+[Document50]
 DocumentPath=library\RP2350B-Footprint-main\RP2350B.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -916,7 +899,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ETBSYIPE
 
-[Document52]
+[Document51]
 DocumentPath=library\ul_TCAL9539RTWR\Altium\TCAL9539RTWR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -933,7 +916,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RYXBVVHT
 
-[Document53]
+[Document52]
 DocumentPath=library\ul_TCAL9539RTWR\Altium\TCAL9539RTWR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -950,7 +933,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BVICNXDD
 
-[Document54]
+[Document53]
 DocumentPath=library\ul_TCA4307DGKR\Altium\TCA4307DGKR\TCA4307DGKR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -967,7 +950,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HGVGJIJM
 
-[Document55]
+[Document54]
 DocumentPath=library\ul_TCA4307DGKR\Altium\TCA4307DGKR\TCA4307DGKR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -984,7 +967,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JJYQHAPF
 
-[Document56]
+[Document55]
 DocumentPath=library\ul_CDSOD323-T12C\Altium\CDSOD323-T12C.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1001,7 +984,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EBFXIFCU
 
-[Document57]
+[Document56]
 DocumentPath=library\ul_CDSOD323-T12C\Altium\CDSOD323-T12C.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1018,7 +1001,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HFJZDHPI
 
-[Document58]
+[Document57]
 DocumentPath=08_ANALOG_OUTPUTS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1035,7 +1018,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RYERLVIX
 
-[Document59]
+[Document58]
 DocumentPath=library\ul_PTS120630V012\Altium\PTS120630V012.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1052,7 +1035,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MTTTQELK
 
-[Document60]
+[Document59]
 DocumentPath=library\ul_PTS120630V012\Altium\PTS120630V012.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1069,7 +1052,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MQMKJUME
 
-[Document61]
+[Document60]
 DocumentPath=library\ul_SMBJ12CA\Altium\SMBJ12CA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1086,7 +1069,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SQKRMOXC
 
-[Document62]
+[Document61]
 DocumentPath=library\ul_SMBJ12CA\Altium\SMBJ12CA.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1103,7 +1086,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FPQENAHQ
 
-[Document63]
+[Document62]
 DocumentPath=library\ul_SN74LVC2G04DBVR\Altium\SN74LVC2G04DBVR\SN74LVC2G04DBVR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1120,7 +1103,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UQGUDRWR
 
-[Document64]
+[Document63]
 DocumentPath=library\ul_SN74LVC2G04DBVR\Altium\SN74LVC2G04DBVR\SN74LVC2G04DBVR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1137,7 +1120,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CYFJJMAJ
 
-[Document65]
+[Document64]
 DocumentPath=library\ul_OP284ESZ\Altium\OP284ESZ\OP284ESZ.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1154,7 +1137,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SYPHCDRD
 
-[Document66]
+[Document65]
 DocumentPath=library\ul_OP284ESZ\Altium\OP284ESZ\OP284ESZ.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1171,7 +1154,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SICFNWYS
 
-[Document67]
+[Document66]
 DocumentPath=library\ul_SMBJ15A\Altium\SMBJ15A\SMBJ15A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1188,7 +1171,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PECTKHIM
 
-[Document68]
+[Document67]
 DocumentPath=library\ul_SMBJ15A\Altium\SMBJ15A\SMBJ15A.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1205,7 +1188,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OCINQZMO
 
-[Document69]
+[Document68]
 DocumentPath=library\ul_SS16\Altium\SS16\SS16.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1222,7 +1205,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XOARBKEK
 
-[Document70]
+[Document69]
 DocumentPath=library\ul_SS16\Altium\SS16\SS16.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1239,7 +1222,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FUAFNKQR
 
-[Document71]
+[Document70]
 DocumentPath=library\ul_OPA2991IDR\Altium\OPA2991IDR\OPA2991IDR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1256,7 +1239,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SOFUGVTW
 
-[Document72]
+[Document71]
 DocumentPath=library\ul_OPA2991IDR\Altium\OPA2991IDR\OPA2991IDR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1273,7 +1256,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XLROUXUZ
 
-[Document73]
+[Document72]
 DocumentPath=09_DIGITAL_IO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1290,7 +1273,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DLZGRINL
 
-[Document74]
+[Document73]
 DocumentPath=library\ul_BAS70-04LT1G\Altium\BAS70-04LT1G.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1307,7 +1290,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GMMAILHD
 
-[Document75]
+[Document74]
 DocumentPath=library\ul_BAS70-04LT1G\Altium\BAS70-04LT1G.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1324,7 +1307,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RLUOERUJ
 
-[Document76]
+[Document75]
 DocumentPath=library\ul_MAX22190ATJ-\Altium\MAX22190ATJ&plus_.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1341,7 +1324,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KBAESFNW
 
-[Document77]
+[Document76]
 DocumentPath=library\ul_MAX22190ATJ-\Altium\MAX22190ATJ&plus_.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1358,7 +1341,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=STUSNQPK
 
-[Document78]
+[Document77]
 DocumentPath=library\ul_SMCJ36A\Altium\SMCJ36A\SMCJ36A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1375,7 +1358,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ADPFDGNV
 
-[Document79]
+[Document78]
 DocumentPath=library\ul_SMCJ36A\Altium\SMCJ36A\SMCJ36A.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1392,7 +1375,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XFSJGMCH
 
-[Document80]
+[Document79]
 DocumentPath=library\ul_STPST10H100SBYTR\Altium\STPST10H100SBYTR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1409,7 +1392,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VJTBVCPO
 
-[Document81]
+[Document80]
 DocumentPath=library\ul_STPST10H100SBYTR\Altium\STPST10H100SBYTR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1426,7 +1409,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OTMKTLEE
 
-[Document82]
+[Document81]
 DocumentPath=library\ul_TLP383-GR-TPL-E\Altium\TLP383GR-TPL,E.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1443,7 +1426,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HVBPQQRR
 
-[Document83]
+[Document82]
 DocumentPath=library\ul_TLP383-GR-TPL-E\Altium\TLP383GR-TPL,E.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1460,7 +1443,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MARZVIFE
 
-[Document84]
+[Document83]
 DocumentPath=library\ul_0454005-MR\Altium\0454005PMR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1477,7 +1460,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WUJMNUHN
 
-[Document85]
+[Document84]
 DocumentPath=library\ul_0454005-MR\Altium\0454005PMR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1494,7 +1477,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PQUMKPTL
 
-[Document86]
+[Document85]
 DocumentPath=library\ul_CRCW25121K50FKEGHP\Altium\CRCW25121K50FKEGHP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1511,7 +1494,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UAGAYLRQ
 
-[Document87]
+[Document86]
 DocumentPath=library\ul_CRCW25121K50FKEGHP\Altium\CRCW25121K50FKEGHP.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1528,7 +1511,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PPOQRTNO
 
-[Document88]
+[Document87]
 DocumentPath=10_UNIVERSAL_INPUTS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1545,7 +1528,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZXCAIBXY
 
-[Document89]
+[Document88]
 DocumentPath=library\ul_SMBJ36CA\Altium\SMBJ36CA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1562,7 +1545,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FWMHFNPG
 
-[Document90]
+[Document89]
 DocumentPath=library\ul_SMBJ36CA\Altium\SMBJ36CA.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1579,7 +1562,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZMGHSMNA
 
-[Document91]
+[Document90]
 DocumentPath=library\ul_BAS70LT1G\Altium\BAS70LT1G.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1596,7 +1579,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EMHNTXGO
 
-[Document92]
+[Document91]
 DocumentPath=library\ul_BAS70LT1G\Altium\BAS70LT1G.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1613,7 +1596,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SEMQGWSR
 
-[Document93]
+[Document92]
 DocumentPath=library\ul_TLV9034PWR\Altium\TLV9034PWR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1630,7 +1613,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OLUVCAPS
 
-[Document94]
+[Document93]
 DocumentPath=library\ul_TLV9034PWR\Altium\TLV9034PWR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1647,7 +1630,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KSRQMKYF
 
-[Document95]
+[Document94]
 DocumentPath=RP2350_OPCUA_Node.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1664,7 +1647,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document96]
+[Document95]
 DocumentPath=11_LEDS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1681,7 +1664,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BHABDZRR
 
-[Document97]
+[Document96]
 DocumentPath=library\ul_2N7002LT1G\Altium\2N7002LT1G\2N7002LT1G.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1698,7 +1681,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BAMMVSCJ
 
-[Document98]
+[Document97]
 DocumentPath=library\ul_2N7002LT1G\Altium\2N7002LT1G\2N7002LT1G.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1715,7 +1698,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TTTVBWZV
 
-[Document99]
+[Document98]
 DocumentPath=library\ul_ABM8-12-000MHZ-B2-T\Altium\ABM8-12P000MHZ-B2-T.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1732,7 +1715,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GAXCRFUS
 
-[Document100]
+[Document99]
 DocumentPath=library\ul_ABM8-12-000MHZ-B2-T\Altium\ABM8-12P000MHZ-B2-T.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1749,7 +1732,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TNYUQITN
 
-[Document101]
+[Document100]
 DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1766,24 +1749,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MGYEPEGD
 
-[Document102]
-DocumentPath=myLib.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=LIFYTXGE
-
-[Document103]
+[Document101]
 DocumentPath=library\GOST_Altium_Library-master\GOST_Altium_Library-master\GOST.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1799,6 +1765,48 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document102]
+DocumentPath=library\OPCUA_Footprints.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NLHWTHUK
+
+[Document103]
+DocumentPath=library\B3F_1000\B3F-1000.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[SearchPath1]
+Path=library\GOST_Altium_Library-master\GOST_Altium_Library-master\footprints\*.*
+IncludeSubFolders=1
+
+[SearchPath2]
+Path=library\GOST_Altium_Library-master\GOST_Altium_Library-master\footprints\*.*
+IncludeSubFolders=1
 
 [Configuration1]
 Name=Sources
@@ -2830,11 +2838,71 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=Simulation Generic Components.IntLib
-ComponentDesignItemID0=Capacitor
-ComponentSymbolReference0=C
-ComponentUpdate0=1
+ComponentLibraryIdentifier0=connector.IntLib
+ComponentDesignItemID0=Connector_terminal_2pin
+ComponentSymbolReference0=Connector_terminal_2pin
+ComponentUpdate0=0
 ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=connector.IntLib
+ComponentDesignItemID1=Connector_terminal_6pin
+ComponentSymbolReference1=Connector_terminal_6pin
+ComponentUpdate1=0
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=CRCW25121K50FKEGHP.SchLib
+ComponentDesignItemID2=CRCW25121K50FKEGHP
+ComponentSymbolReference2=CRCW25121K50FKEGHP
+ComponentUpdate2=0
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=IPS2050HTR.SchLib
+ComponentDesignItemID3=IPS2050HTR
+ComponentSymbolReference3=IPS2050HTR
+ComponentUpdate3=0
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=MAX22190ATJ&plus_.SchLib
+ComponentDesignItemID4=MAX22190ATJ+
+ComponentSymbolReference4=MAX22190ATJ+
+ComponentUpdate4=0
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name And Type
+ComponentLibraryIdentifier5=Simulation Generic Components.IntLib
+ComponentDesignItemID5=Capacitor
+ComponentSymbolReference5=C
+ComponentUpdate5=0
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=Simulation Generic Components.IntLib
+ComponentDesignItemID6=LED
+ComponentSymbolReference6=LED
+ComponentUpdate6=0
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name And Type
+ComponentLibraryIdentifier7=Simulation Generic Components.IntLib
+ComponentDesignItemID7=Resistor
+ComponentSymbolReference7=R
+ComponentUpdate7=0
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name And Type
+ComponentLibraryIdentifier8=SN74LVC2G08DCTR.IntLib
+ComponentDesignItemID8=SN74LVC2G08DCTR
+ComponentSymbolReference8=SN74LVC2G08DCTR
+ComponentUpdate8=0
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name And Type
+ComponentLibraryIdentifier9=TLP383GR-TPL,E.SchLib
+ComponentDesignItemID9=TLP383GR-TPL,E
+ComponentSymbolReference9=TLP383GR-TPL,E
+ComponentUpdate9=0
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name And Type
+ComponentLibraryIdentifier10=TMJD4012BENL.SchLib
+ComponentDesignItemID10=TMJD4012BENL
+ComponentSymbolReference10=TMJD4012BENL
+ComponentUpdate10=1
+ComponentIsDeviceSheet10=0
 FullReplace=0
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -2848,35 +2916,252 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Comment
+ParameterName0=AF
 ParameterUpdate0=1
-ParameterName1=Component Kind
+ParameterName1=Area Factor
 ParameterUpdate1=1
-ParameterName2=CPAR
+ParameterName2=BV
 ParameterUpdate2=1
-ParameterName3=Description
+ParameterName3=BV_MAX
 ParameterUpdate3=1
-ParameterName4=Library Reference
+ParameterName4=CJO
 ParameterUpdate4=1
-ParameterName5=LSER
+ParameterName5=CJP
 ParameterUpdate5=1
-ParameterName6=RLSHUNT
+ParameterName6=Comment
 ParameterUpdate6=1
-ParameterName7=RPAR
+ParameterName7=CommentText
 ParameterUpdate7=1
-ParameterName8=RSER
+ParameterName8=Component Kind
 ParameterUpdate8=1
-ParameterName9=SimulationGenericComponent
+ParameterName9=Copyright
 ParameterUpdate9=1
-ParameterName10=TEMP
+ParameterName10=CPAR
 ParameterUpdate10=1
-ParameterName11=Value
+ParameterName11=CTA
 ParameterUpdate11=1
+ParameterName12=CTP
+ParameterUpdate12=1
+ParameterName13=CurrentMax
+ParameterUpdate13=1
+ParameterName14=Datasheet
+ParameterUpdate14=1
+ParameterName15=Description
+ParameterUpdate15=1
+ParameterName16=DTEMP
+ParameterUpdate16=1
+ParameterName17=EG
+ParameterUpdate17=1
+ParameterName18=FC
+ParameterUpdate18=1
+ParameterName19=FCS
+ParameterUpdate19=1
+ParameterName20=FV_MAX
+ParameterUpdate20=1
+ParameterName21=HelpURL
+ParameterUpdate21=1
+ParameterName22=IBV
+ParameterUpdate22=1
+ParameterName23=IKF
+ParameterUpdate23=1
+ParameterName24=IKR
+ParameterUpdate24=1
+ParameterName25=Initial Voltage
+ParameterUpdate25=1
+ParameterName26=IS
+ParameterUpdate26=1
+ParameterName27=ISR
+ParameterUpdate27=1
+ParameterName28=JSW
+ParameterUpdate28=1
+ParameterName29=JTUN
+ParameterUpdate29=1
+ParameterName30=JTUNSW
+ParameterUpdate30=1
+ParameterName31=KEG
+ParameterUpdate31=1
+ParameterName32=KF
+ParameterUpdate32=1
+ParameterName33=L
+ParameterUpdate33=1
+ParameterName34=LEVEL
+ParameterUpdate34=1
+ParameterName35=Library Reference
+ParameterUpdate35=1
+ParameterName36=LSER
+ParameterUpdate36=1
+ParameterName37=M
+ParameterUpdate37=1
+ParameterName38=Manufacturer
+ParameterUpdate38=1
+ParameterName39=Manufacturer_Name
+ParameterUpdate39=1
+ParameterName40=Manufacturer_Part_Number
+ParameterUpdate40=1
+ParameterName41=MJSW
+ParameterUpdate41=1
+ParameterName42=Multichannel
+ParameterUpdate42=1
+ParameterName43=N
+ParameterUpdate43=1
+ParameterName44=NBV
+ParameterUpdate44=1
+ParameterName45=NR
+ParameterUpdate45=1
+ParameterName46=NS
+ParameterUpdate46=1
+ParameterName47=NTUN
+ParameterUpdate47=1
+ParameterName48=Number_devices_in_Package
+ParameterUpdate48=1
+ParameterName49=PartNumber
+ParameterUpdate49=1
+ParameterName50=PCB_Footprint
+ParameterUpdate50=1
+ParameterName51=PHP
+ParameterUpdate51=1
+ParameterName52=Pitch
+ParameterUpdate52=1
+ParameterName53=PJ
+ParameterUpdate53=1
+ParameterName54=PositionInPackage
+ParameterUpdate54=1
+ParameterName55=RefDes
+ParameterUpdate55=1
+ParameterName56=RLSHUNT
+ParameterUpdate56=1
+ParameterName57=RPAR
+ParameterUpdate57=1
+ParameterName58=RS
+ParameterUpdate58=1
+ParameterName59=RSER
+ParameterUpdate59=1
+ParameterName60=SENS_AREA
+ParameterUpdate60=1
+ParameterName61=SimulationGenericComponent
+ParameterUpdate61=1
+ParameterName62=Source_Package
+ParameterUpdate62=1
+ParameterName63=Starting Condition
+ParameterUpdate63=1
+ParameterName64=T_REL_LOCAL
+ParameterUpdate64=1
+ParameterName65=TC
+ParameterUpdate65=1
+ParameterName66=TC1
+ParameterUpdate66=1
+ParameterName67=TC2
+ParameterUpdate67=1
+ParameterName68=TCV
+ParameterUpdate68=1
+ParameterName69=TEMP
+ParameterUpdate69=1
+ParameterName70=Temperature
+ParameterUpdate70=1
+ParameterName71=TLEV
+ParameterUpdate71=1
+ParameterName72=TLEVC
+ParameterUpdate72=1
+ParameterName73=TM1
+ParameterUpdate73=1
+ParameterName74=TM2
+ParameterUpdate74=1
+ParameterName75=TNOM
+ParameterUpdate75=1
+ParameterName76=TPB
+ParameterUpdate76=1
+ParameterName77=TPHP
+ParameterUpdate77=1
+ParameterName78=TRS
+ParameterUpdate78=1
+ParameterName79=TRS2
+ParameterUpdate79=1
+ParameterName80=TT
+ParameterUpdate80=1
+ParameterName81=TTT1
+ParameterUpdate81=1
+ParameterName82=TTT2
+ParameterUpdate82=1
+ParameterName83=Type
+ParameterUpdate83=1
+ParameterName84=TypeConnector
+ParameterUpdate84=1
+ParameterName85=Value
+ParameterUpdate85=1
+ParameterName86=ValueManufacturerPartNumber
+ParameterUpdate86=1
+ParameterName87=VJ
+ParameterUpdate87=1
+ParameterName88=VoltageMax
+ParameterUpdate88=1
+ParameterName89=W
+ParameterUpdate89=1
+ParameterName90=XTI
+ParameterUpdate90=1
+ParameterName91=XTITUN
+ParameterUpdate91=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=C_0805
+ModelName0=21-0140L_T3255-5_MXM
 ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=4pin SO6L_TOS
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=C_0603
+ModelUpdate2=1
+ModelType3=PCBLIB
+ModelName3=C_1206
+ModelUpdate3=1
+ModelType4=PCBLIB
+ModelName4=CON: 15EDGRC-3.5-02 (or 691322110002)
+ModelUpdate4=1
+ModelType5=PCBLIB
+ModelName5=CON: 15EDGRC-3.5-06 (or 691322110006)
+ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=CON: 15EDGVC-3.5-02 (or 691321100002)
+ModelUpdate6=1
+ModelType7=PCBLIB
+ModelName7=CON: 15EDGVC-3.5-06 (or 691321100006)
+ModelUpdate7=1
+ModelType8=PCBLIB
+ModelName8=CON: 691313710002
+ModelUpdate8=1
+ModelType9=PCBLIB
+ModelName9=CON: 691322310002
+ModelUpdate9=1
+ModelType10=PCBLIB
+ModelName10=CON: DG350-3.5-02P
+ModelUpdate10=1
+ModelType11=PCBLIB
+ModelName11=CON: DG350-3.5-06P
+ModelUpdate11=1
+ModelType12=PCBLIB
+ModelName12=CON: DG950-9.5-02P
+ModelUpdate12=1
+ModelType13=PCBLIB
+ModelName13=CON: KLS2 (or 691311500002)
+ModelUpdate13=1
+ModelType14=PCBLIB
+ModelName14=CONN12_TMJD4012BENL_TAL
+ModelUpdate14=1
+ModelType15=PCBLIB
+ModelName15=DCT8
+ModelUpdate15=1
+ModelType16=PCBLIB
+ModelName16=PLCC2
+ModelUpdate16=1
+ModelType17=PCBLIB
+ModelName17=POWERSSO-24_STM
+ModelUpdate17=1
+ModelType18=PCBLIB
+ModelName18=R_0603
+ModelUpdate18=1
+ModelType19=PCBLIB
+ModelName19=RES_0FKEGHP_VIS
+ModelUpdate19=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
