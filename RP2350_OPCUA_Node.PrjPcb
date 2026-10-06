@@ -1808,6 +1808,10 @@ IncludeSubFolders=1
 Path=library\GOST_Altium_Library-master\GOST_Altium_Library-master\footprints\*.*
 IncludeSubFolders=1
 
+[DiffPairSuffix1]
+Positive=_DP
+Negative=_DM
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
