@@ -1,6 +1,6 @@
 Record=TopLevelDocument|FileName=01_POWER_INPUT.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=01_POWER_INPUT.SchDoc|FileName=02A_POWER_RAILS.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=01_POWER_INPUT.SchDoc|FileName=02B_AO_POWER.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=01_POWER_INPUT.SchDoc|FileName=02A_POWER_RAILS.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=01_POWER_INPUT.SchDoc|FileName=02B_AO_POWER.SchDoc|SheetNumber=3
 Record=NoMainPathDocument|SourceDocument=01_POWER_INPUT.SchDoc|FileName=03_MCU_RP2350.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=01_POWER_INPUT.SchDoc|FileName=04_MEMORY.SchDoc|SheetNumber=5
 Record=NoMainPathDocument|SourceDocument=01_POWER_INPUT.SchDoc|FileName=05_ETHERNET_USB.SchDoc|SheetNumber=6
