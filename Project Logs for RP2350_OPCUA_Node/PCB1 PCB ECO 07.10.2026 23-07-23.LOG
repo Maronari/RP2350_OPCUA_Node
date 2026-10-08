@@ -1,0 +1,35 @@
+Removed Member From Class: ClassName=09_DIGITAL_IO Member=R112
+Removed Member From Class: ClassName=09_DIGITAL_IO Member=R113
+Removed Member From Class: ClassName=09_DIGITAL_IO Member=R114
+Removed Member From Class: ClassName=09_DIGITAL_IO Member=R119
+Removed Member From Class: ClassName=10_UNIVERSAL_INPUTS Member=R142
+Removed Member From Class: ClassName=11_LEDS Member=R156
+Removed Member From Class: ClassName=09_DIGITAL_IO Member=XTAL1
+Added Pin To Net: NetName=EFUSE_RTN Pin=R6-2
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=R8-1
+Added Pin To Net: NetName=NetR7_2 Pin=U1-10
+Added Net: Name=NetR7_2
+Added Member To Class: ClassName=09_DIGITAL_IO Member=Component R98 CRCW25121K50FKEGHP
+Added Member To Class: ClassName=09_DIGITAL_IO Member=Component R99 CRCW25121K50FKEGHP
+Added Member To Class: ClassName=09_DIGITAL_IO Member=Component R100 CRCW25121K50FKEGHP
+Added Member To Class: ClassName=09_DIGITAL_IO Member=Component R101 CRCW25121K50FKEGHP
+Added Member To Class: ClassName=09_DIGITAL_IO Member=Component R104 Resistor
+Added Member To Class: ClassName=09_DIGITAL_IO Member=Component R105 Resistor
+Added Member To Class: ClassName=09_DIGITAL_IO Member=Component R110 Resistor
+Added Member To Class: ClassName=10_UNIVERSAL_INPUTS Member=Component R115 Resistor
+Added Member To Class: ClassName=10_UNIVERSAL_INPUTS Member=Component R124 Resistor
+Added Member To Class: ClassName=10_UNIVERSAL_INPUTS Member=Component R129 Resistor
+Added Member To Class: ClassName=10_UNIVERSAL_INPUTS Member=Component R138 Resistor
+Added Member To Class: ClassName=11_LEDS Member=Component R143 Resistor
+Added Member To Class: ClassName=11_LEDS Member=Component R148 Resistor
+Added Member To Class: ClassName=11_LEDS Member=Component R149 Resistor
+Added Member To Class: ClassName=11_LEDS Member=Component R150 Resistor
+Added Member To Class: ClassName=11_LEDS Member=Component R151 Resistor
+Added Member To Class: ClassName=11_LEDS Member=Component R152 Resistor
+Added Member To Class: ClassName=02A_POWER_RAILS Member=Component R161 Resistor
+Added Member To Class: ClassName=02A_POWER_RAILS Member=Component R170 Resistor
+Added Member To Class: ClassName=02A_POWER_RAILS Member=Component R175 Resistor
+Added Member To Class: ClassName=02A_POWER_RAILS Member=Component R179 Resistor
+Added Member To Class: ClassName=09_DIGITAL_IO Member=Component X3 Terminal connector, 6pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=09_DIGITAL_IO Member=Component X5 Terminal connector, 2pin, 3.5mm, 300VAC, 10A

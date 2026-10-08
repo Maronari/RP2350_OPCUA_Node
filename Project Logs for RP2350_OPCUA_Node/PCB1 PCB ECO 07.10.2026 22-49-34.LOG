@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=J4 Old Footprint=CON: 6PCV-03-006 New Footprint=CON: DG350-3.5-03P
+Change Component Comment : Designator=J4 Old Comment=Connector, 3pin, 9.53mm, 300VAC, 25A New Comment=Terminal connector, 3pin, 3.5mm, 300VAC, 10A
+Change component parameters: Designator = "J4" ("J4"); Footprint = "CON: 6PCV-03-006"; UniqueID = "\GMSCPSQB" ("\GMSCPSQB")
+Change component parameters (AddParameter): Name = "CommentText"; Value = ""׀אחתול""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CurrentMax"; Value = "10A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/dg350-3.5-03p-12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Degson"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Multichannel"; Value = "3pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "DG350-3.5-03P-14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "3.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeConnector"; Value = "Terminal connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Terminal connector, 3pin, 3.5mm, 300VAC, 10A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VoltageMax"; Value = "300VAC"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=10_UNIVERSAL_INPUTS Member=Component U18 BAS70LT1G
