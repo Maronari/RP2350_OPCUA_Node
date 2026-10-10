@@ -1800,6 +1800,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for RP2350_OPCUA_Node\Design Rule Check - PCB1.html
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=library\GOST_Altium_Library-master\GOST_Altium_Library-master\footprints\*.*
 IncludeSubFolders=1
