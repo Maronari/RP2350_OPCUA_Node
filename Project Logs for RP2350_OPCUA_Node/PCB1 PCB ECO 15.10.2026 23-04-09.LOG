@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=AIN_0P Pin=C68-2
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Added Member To Class: ClassName=09_DIGITAL_IO Member=Component MOSFET1 TLP383(GR-TPL,E
+Added Member To Class: ClassName=09_DIGITAL_IO Member=Component MOSFET2 TLP383(GR-TPL,E
+Added Member To Class: ClassName=09_DIGITAL_IO Member=Component MOSFET4 TLP383(GR-TPL,E
