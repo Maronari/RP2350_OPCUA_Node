@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=EFUSE_RTN Pin=U1-V
+Removed Pin From Net: NetName=EFUSE_RTN Pin=U1-V
+Removed Pin From Net: NetName=EFUSE_RTN Pin=U1-V
+Removed Pin From Net: NetName=EFUSE_RTN Pin=U1-V
+Removed Pin From Net: NetName=EFUSE_RTN Pin=U1-V
+Removed Pin From Net: NetName=EFUSE_RTN Pin=U1-V
+Removed Pin From Net: NetName=EFUSE_RTN Pin=U1-V
+Removed Pin From Net: NetName=GND_SYS Pin=U29-V
+Removed Pin From Net: NetName=GND_SYS Pin=U29-V
+Removed Pin From Net: NetName=GND_SYS Pin=U29-V
+Removed Pin From Net: NetName=GND_SYS Pin=U29-V
+Added Member To Class: ClassName=10_UNIVERSAL_INPUTS Member=Component CR17 SMBJ36CA
