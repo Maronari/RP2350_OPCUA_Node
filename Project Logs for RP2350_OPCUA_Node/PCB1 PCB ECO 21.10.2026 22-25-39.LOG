@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND_SYS Pin=U30-V
+Removed Pin From Net: NetName=GND_SYS Pin=U30-V
+Removed Pin From Net: NetName=GND_SYS Pin=U30-V
+Removed Pin From Net: NetName=GND_SYS Pin=U30-V
+Removed Pin From Net: NetName=GND_SYS Pin=U30-V
+Removed Pin From Net: NetName=GND_SYS Pin=U30-V
+Removed Pin From Net: NetName=GND_SYS Pin=U30-V
+Removed Pin From Net: NetName=GND_SYS Pin=U30-V
+Removed Pin From Net: NetName=GND_SYS Pin=U30-V
+Removed Pin From Net: NetName=GND_SYS Pin=U30-V
+Added Pin To Net: NetName=NetC50_2 Pin=C50-2
+Added Pin To Net: NetName=NetC50_2 Pin=J2-2
+Added Pin To Net: NetName=NetC50_2 Pin=R50-1
+Added Net: Name=NetC50_2
