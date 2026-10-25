@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=UIC0_FIELD Pin=X6-3
+Removed Pin From Net: NetName=UIC1_FIELD Pin=X6-4
+Removed Pin From Net: NetName=UIC2_FIELD Pin=X6-5
+Removed Pin From Net: NetName=UIC3_FIELD Pin=X6-6
+Added Pin To Net: NetName=UIC3_FIELD Pin=X6-3
+Added Pin To Net: NetName=UIC2_FIELD Pin=X6-4
+Added Pin To Net: NetName=UIC1_FIELD Pin=X6-5
+Added Pin To Net: NetName=UIC0_FIELD Pin=X6-6
