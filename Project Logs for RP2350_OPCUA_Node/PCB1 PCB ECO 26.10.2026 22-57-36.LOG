@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=EFUSE_RTN Pin=U1-V
+Removed Pin From Net: NetName=EFUSE_RTN Pin=U1-V
+Removed Pin From Net: NetName=EFUSE_RTN Pin=U1-V
+Removed Pin From Net: NetName=EFUSE_RTN Pin=U1-V
+Removed Pin From Net: NetName=EFUSE_RTN Pin=U1-V
+Removed Pin From Net: NetName=EFUSE_RTN Pin=U1-V
+Removed Pin From Net: NetName=EFUSE_RTN Pin=U1-V
+Removed Pin From Net: NetName=GND_SYS Pin=U28-V
+Removed Pin From Net: NetName=GND_SYS Pin=U28-V
+Removed Pin From Net: NetName=GND_SYS Pin=U28-V
+Removed Pin From Net: NetName=GND_SYS Pin=U28-V
+Removed Pin From Net: NetName=GND_SYS Pin=U29-V
+Removed Pin From Net: NetName=GND_SYS Pin=U29-V
+Removed Pin From Net: NetName=GND_SYS Pin=U29-V
+Removed Pin From Net: NetName=GND_SYS Pin=U29-V
+Removed Pin From Net: NetName=GND_SYS Pin=U30-V
+Removed Pin From Net: NetName=GND_SYS Pin=U30-V
+Removed Pin From Net: NetName=GND_SYS Pin=U30-V
+Removed Pin From Net: NetName=GND_SYS Pin=U30-V
+Removed Pin From Net: NetName=GND_SYS Pin=U30-V
+Removed Pin From Net: NetName=GND_SYS Pin=U30-V
+Removed Pin From Net: NetName=GND_SYS Pin=U30-V
+Removed Pin From Net: NetName=GND_SYS Pin=U30-V
+Removed Pin From Net: NetName=GND_SYS Pin=U30-V
+Removed Pin From Net: NetName=GND_SYS Pin=U30-V
+Added Member To Class: ClassName=02A_POWER_RAILS Member=Component C6 Capacitor
+Added Member To Class: ClassName=02A_POWER_RAILS Member=Component C7 Capacitor
+Added Member To Class: ClassName=02A_POWER_RAILS Member=Component C8 Capacitor
+Added Member To Class: ClassName=02A_POWER_RAILS Member=Component C9 Capacitor
+Added Member To Class: ClassName=02A_POWER_RAILS Member=Component C10 Capacitor
+Added Member To Class: ClassName=02A_POWER_RAILS Member=Component C11 Capacitor
+Added Member To Class: ClassName=02A_POWER_RAILS Member=Component C12 Capacitor
+Added Member To Class: ClassName=02A_POWER_RAILS Member=Component C13 Capacitor
+Added Member To Class: ClassName=02A_POWER_RAILS Member=Component D2 Schottky Diode
+Added Member To Class: ClassName=05_ETHERNET_USB Member=Component J1 USB4145-03-0230-C
+Added Member To Class: ClassName=02A_POWER_RAILS Member=Component L1 Inductor
+Added Member To Class: ClassName=02A_POWER_RAILS Member=Component L2 Inductor
+Added Member To Class: ClassName=02A_POWER_RAILS Member=Component R9 Resistor
+Added Member To Class: ClassName=02A_POWER_RAILS Member=Component R10 Resistor
+Added Member To Class: ClassName=02A_POWER_RAILS Member=Component R11 Resistor
+Added Member To Class: ClassName=02A_POWER_RAILS Member=Component R12 Resistor
+Added Member To Class: ClassName=02A_POWER_RAILS Member=Component R13 Resistor
+Added Member To Class: ClassName=02A_POWER_RAILS Member=Component R14 Resistor
+Added Member To Class: ClassName=02A_POWER_RAILS Member=Component U2 LT8362EMSE#PBF
