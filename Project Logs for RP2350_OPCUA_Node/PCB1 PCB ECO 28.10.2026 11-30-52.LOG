@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND_SYS Pin=U28-V
+Removed Pin From Net: NetName=GND_SYS Pin=U28-V
+Removed Pin From Net: NetName=GND_SYS Pin=U28-V
+Removed Pin From Net: NetName=GND_SYS Pin=U28-V
+Change Component Footprint: Designator=U28 Old Footprint= New Footprint=DRB0008A

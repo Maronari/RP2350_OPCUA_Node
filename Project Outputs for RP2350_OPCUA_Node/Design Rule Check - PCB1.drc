@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : E:\Projects\RP2350_OPCUA_Node\PCB1.PcbDoc
-Date     : 25.10.2026
-Time     : 21:43:30
+Date     : 28.10.2026
+Time     : 18:33:40
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (Disabled)(All),(All)
 Rule Violations :0
@@ -16,10 +16,8 @@ Processing Rule : Clearance Constraint (Gap=0.1mm) (Disabled)(All),(All)
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=0.125mm) (All),(All)
-Rule Violations :0
-
-Processing Rule : Clearance Constraint (Gap=0.125mm) (IsPad AND InComponent('U3')),(IsTrack)
-Rule Violations :0
+   Violation between Clearance Constraint: (0.108mm < 0.125mm) Between Track (13.97mm,25.908mm)(41.114mm,25.908mm) on Bottom Layer And Via (37.211mm,26.416mm) from Top Layer to Bottom Layer 
+Rule Violations :1
 
 Processing Rule : Clearance Constraint (Gap=0.15mm) (InDifferentialPair('USB')),(InDifferentialPair('USB'))
 Rule Violations :0
@@ -28,6 +26,9 @@ Processing Rule : Clearance Constraint (Gap=0.35mm) (Disabled)(All),(All)
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=0.125mm) (IsPad AND InComponent('U3')),(IsPad AND InComponent('U3'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.125mm) (IsPad AND InComponent('U3')),(IsTrack)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -57,13 +58,13 @@ Rule Violations :0
 Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
 Rule Violations :0
 
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.15mm) (Conductor Width=0.2mm) (Air Gap=0.2mm) (Entries=4) (Disabled)(All)
+Rule Violations :0
+
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.15mm) (Conductor Width=0.15mm) (Air Gap=0.15mm) (Entries=4) (Disabled)(All)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.2mm) (Conductor Width=0.2mm) (Air Gap=0.2mm) (Entries=4) (All)
-Rule Violations :0
-
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.15mm) (Conductor Width=0.2mm) (Air Gap=0.2mm) (Entries=4) (Disabled)(All)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.2mm) (Conductor Width=0.35mm) (Air Gap=0.35mm) (Entries=4) (Disabled)(All)
@@ -85,32 +86,7 @@ Processing Rule : Minimum Annular Ring (Minimum=0.15mm) (IsVia)
 Rule Violations :0
 
 Processing Rule : Minimum Annular Ring (Minimum=0.2mm) (IsPAD)
-   Violation between Minimum Annular Ring: (0.1mm < 0.2mm) Pad U1-V(14.653mm,30.075mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.1mm < 0.2mm) Pad U1-V(15.753mm,28.475mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.1mm < 0.2mm) Pad U1-V(15.753mm,29.275mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.1mm < 0.2mm) Pad U1-V(15.753mm,30.075mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.1mm < 0.2mm) Pad U1-V(15.753mm,30.875mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.1mm < 0.2mm) Pad U1-V(15.753mm,31.675mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.1mm < 0.2mm) Pad U1-V(16.853mm,30.075mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.148mm < 0.2mm) Pad U28-V(48.974mm,49.668mm) on Multi-Layer (Annular Ring=0.148mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.148mm < 0.2mm) Pad U28-V(48.974mm,50.668mm) on Multi-Layer (Annular Ring=0.148mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.148mm < 0.2mm) Pad U28-V(49.974mm,49.668mm) on Multi-Layer (Annular Ring=0.148mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.148mm < 0.2mm) Pad U28-V(49.974mm,50.668mm) on Multi-Layer (Annular Ring=0.148mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.127mm < 0.2mm) Pad U29-V(38.584mm,47.817mm) on Multi-Layer (Annular Ring=0.127mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.127mm < 0.2mm) Pad U29-V(38.584mm,48.605mm) on Multi-Layer (Annular Ring=0.127mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.127mm < 0.2mm) Pad U29-V(39.371mm,47.817mm) on Multi-Layer (Annular Ring=0.127mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.127mm < 0.2mm) Pad U29-V(39.371mm,48.605mm) on Multi-Layer (Annular Ring=0.127mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.148mm < 0.2mm) Pad U30-V(23.849mm,39.225mm) on Multi-Layer (Annular Ring=0.148mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.148mm < 0.2mm) Pad U30-V(23.849mm,40.365mm) on Multi-Layer (Annular Ring=0.148mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.148mm < 0.2mm) Pad U30-V(23.849mm,41.505mm) on Multi-Layer (Annular Ring=0.148mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.148mm < 0.2mm) Pad U30-V(24.499mm,38.655mm) on Multi-Layer (Annular Ring=0.148mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.148mm < 0.2mm) Pad U30-V(24.499mm,39.795mm) on Multi-Layer (Annular Ring=0.148mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.148mm < 0.2mm) Pad U30-V(24.499mm,40.935mm) on Multi-Layer (Annular Ring=0.148mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.148mm < 0.2mm) Pad U30-V(24.499mm,42.075mm) on Multi-Layer (Annular Ring=0.148mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.148mm < 0.2mm) Pad U30-V(25.149mm,39.225mm) on Multi-Layer (Annular Ring=0.148mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.148mm < 0.2mm) Pad U30-V(25.149mm,40.365mm) on Multi-Layer (Annular Ring=0.148mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.148mm < 0.2mm) Pad U30-V(25.149mm,41.505mm) on Multi-Layer (Annular Ring=0.148mm) On (Top Layer)
-Rule Violations :25
+Rule Violations :0
 
 Processing Rule : Acute Angle Constraint (Minimum=35.000) (All)
 Rule Violations :0
@@ -118,36 +94,14 @@ Rule Violations :0
 Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=5.9mm) (IsVia)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=5.9mm) (IsVia)
+Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=5.9mm) (IsPad And InComponent('U1'))
 Rule Violations :0
 
 Processing Rule : Hole Size Constraint (Min=0.6mm) (Max=5.9mm) (IsPad)
-   Violation between Hole Size Constraint: (0.3mm < 0.6mm) Pad U1-V(14.653mm,30.075mm) on Multi-Layer Actual Hole Size = 0.3mm
-   Violation between Hole Size Constraint: (0.3mm < 0.6mm) Pad U1-V(15.753mm,28.475mm) on Multi-Layer Actual Hole Size = 0.3mm
-   Violation between Hole Size Constraint: (0.3mm < 0.6mm) Pad U1-V(15.753mm,29.275mm) on Multi-Layer Actual Hole Size = 0.3mm
-   Violation between Hole Size Constraint: (0.3mm < 0.6mm) Pad U1-V(15.753mm,30.075mm) on Multi-Layer Actual Hole Size = 0.3mm
-   Violation between Hole Size Constraint: (0.3mm < 0.6mm) Pad U1-V(15.753mm,30.875mm) on Multi-Layer Actual Hole Size = 0.3mm
-   Violation between Hole Size Constraint: (0.3mm < 0.6mm) Pad U1-V(15.753mm,31.675mm) on Multi-Layer Actual Hole Size = 0.3mm
-   Violation between Hole Size Constraint: (0.3mm < 0.6mm) Pad U1-V(16.853mm,30.075mm) on Multi-Layer Actual Hole Size = 0.3mm
-   Violation between Hole Size Constraint: (0.203mm < 0.6mm) Pad U28-V(48.974mm,49.668mm) on Multi-Layer Actual Hole Size = 0.203mm
-   Violation between Hole Size Constraint: (0.203mm < 0.6mm) Pad U28-V(48.974mm,50.668mm) on Multi-Layer Actual Hole Size = 0.203mm
-   Violation between Hole Size Constraint: (0.203mm < 0.6mm) Pad U28-V(49.974mm,49.668mm) on Multi-Layer Actual Hole Size = 0.203mm
-   Violation between Hole Size Constraint: (0.203mm < 0.6mm) Pad U28-V(49.974mm,50.668mm) on Multi-Layer Actual Hole Size = 0.203mm
-   Violation between Hole Size Constraint: (0.254mm < 0.6mm) Pad U29-V(38.584mm,47.817mm) on Multi-Layer Actual Hole Size = 0.254mm
-   Violation between Hole Size Constraint: (0.254mm < 0.6mm) Pad U29-V(38.584mm,48.605mm) on Multi-Layer Actual Hole Size = 0.254mm
-   Violation between Hole Size Constraint: (0.254mm < 0.6mm) Pad U29-V(39.371mm,47.817mm) on Multi-Layer Actual Hole Size = 0.254mm
-   Violation between Hole Size Constraint: (0.254mm < 0.6mm) Pad U29-V(39.371mm,48.605mm) on Multi-Layer Actual Hole Size = 0.254mm
-   Violation between Hole Size Constraint: (0.203mm < 0.6mm) Pad U30-V(23.849mm,39.225mm) on Multi-Layer Actual Hole Size = 0.203mm
-   Violation between Hole Size Constraint: (0.203mm < 0.6mm) Pad U30-V(23.849mm,40.365mm) on Multi-Layer Actual Hole Size = 0.203mm
-   Violation between Hole Size Constraint: (0.203mm < 0.6mm) Pad U30-V(23.849mm,41.505mm) on Multi-Layer Actual Hole Size = 0.203mm
-   Violation between Hole Size Constraint: (0.203mm < 0.6mm) Pad U30-V(24.499mm,38.655mm) on Multi-Layer Actual Hole Size = 0.203mm
-   Violation between Hole Size Constraint: (0.203mm < 0.6mm) Pad U30-V(24.499mm,39.795mm) on Multi-Layer Actual Hole Size = 0.203mm
-   Violation between Hole Size Constraint: (0.203mm < 0.6mm) Pad U30-V(24.499mm,40.935mm) on Multi-Layer Actual Hole Size = 0.203mm
-   Violation between Hole Size Constraint: (0.203mm < 0.6mm) Pad U30-V(24.499mm,42.075mm) on Multi-Layer Actual Hole Size = 0.203mm
-   Violation between Hole Size Constraint: (0.203mm < 0.6mm) Pad U30-V(25.149mm,39.225mm) on Multi-Layer Actual Hole Size = 0.203mm
-   Violation between Hole Size Constraint: (0.203mm < 0.6mm) Pad U30-V(25.149mm,40.365mm) on Multi-Layer Actual Hole Size = 0.203mm
-   Violation between Hole Size Constraint: (0.203mm < 0.6mm) Pad U30-V(25.149mm,41.505mm) on Multi-Layer Actual Hole Size = 0.203mm
-Rule Violations :25
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=5.9mm) (IsVia)
+Rule Violations :0
 
 Processing Rule : Hole To Hole Clearance (Gap=0.25mm) (All),(All)
 Rule Violations :0
@@ -177,6 +131,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 50
+Violations Detected : 1
 Waived Violations : 0
-Time Elapsed        : 00:00:23
+Time Elapsed        : 00:00:22
